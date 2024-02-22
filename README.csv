@@ -1,45 +1,45 @@
-mapname;playable;no crash;localized name;loadscreen;compass;no error viewmodel;no invisible props;error;notes;note
-estate;✅;✅;❌;❌;✅;✅;✅;;;loads, no loadscreen
-so_takeover_estate;✅;✅;❌;❌;❌;✅;✅;;;loads, no loadscreen, no compass, no localized name
-so_ac130_co_hunted;❌;✅;❌;❌;❌;✅;✅;;;loads, but has error viewmodel, no compass, no localized name
-so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_bridge.gsc""";;"crash (Error: Could not load rawfile ""maps/mp/so_bridge.gsc"")"
-so_crossing_so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_crossing_so_bridge.gsc""";;"crash (Error: Could not load rawfile ""maps/mp/so_crossing_so_bridge.gsc"")"
-so_demo_so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_demo_so_bridge.gsc""";;"crash (Error: Could not load rawfile ""maps/mp/so_demo_so_bridge.gsc"")"
-so_ghillies;✅;✅;❌;❌;❌;✅;✅;;;loads, no preview, no compass, no localized name
-so_hidden_so_ghillies;✅;✅;❌;❌;❌;✅;✅;;;loads, no preview, no compass, no localized name
-oilrig;✅;✅;❌;❌;✅;✅;✅;;;loads
-so_takeover_oilrig;❌;✅;❌;❌;❌;❌;✅;;;loads, but has error viewmodel, no compass, no localized name,
-so_assault_oilrig;❌;✅;❌;❌;❌;❌;✅;;;loads, but has error viewmodel, no compass, no localized name
-gulag;✅;✅;❌;❌;✅;✅;✅;;;loads, fx errors, no loadscreen, playable
-so_showers_gulag;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no preview, no compass, no localized name, playable
-dcburning;✅;✅;❌;❌;✅;✅;✅;;;loads, fx errors, no loadscreen, no localized name, playable
-contingency;⚠️;✅;❌;❌;✅;✅;✅;;stutters, invisible grenades,;loads, no loadscreen, no localized name,  barely playable
-so_rooftop_contingency;✅;✅;❌;❌;❌;✅;✅;;;loads, no loadscreen, no compass, no localized name, playable
-so_forest_contingency;✅;✅;❌;❌;❌;✅;✅;;;loads, no loadscreen, no compass, no localized name, playable
-dcemp;✅;✅;❌;❌;✅;✅;✅;;;loads, fx errors, no loadscreen, no localized name, playable
-dc_whitehouse;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";;does not load, (Error: .), no loadscreen, no localized name
-boneyard;✅;✅;❌;❌;✅;✅;✅;;had script loop error;loads, , fx errors, no loadscreen, no compass, playable
-so_intel_boneyard;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no preview, no compass, no localized name, playable
-af_caves;✅;✅;❌;❌;✅;✅;✅;;tank with jeep hitbox, can glitch under map;loads, , no loadscreen, no localized name, playable
-af_chase;✅;✅;❌;❌;✅;✅;✅;;;loads, no fx errors, no loadscreen, no localized name, playable
-ending;✅;✅;❌;❌;✅;✅;✅;;weapon pickups with low ammo, ammo boxes not working;loads, , no fx errors, no loadscreen, no compass, no localized name, playable
-trainer;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";;does not load, (Error: ), no loadscreen, no localized name
-so_killspree_trainer;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no preview, no compass, no localized name, playable
-roadkill;✅;✅;❌;❌;✅;✅;✅;;;loads, no fx errors, no loadscreen, no localized name, playable
-cliffhanger;✅;✅;❌;❌;✅;✅;❌;;;loads, invisible props, no loadscreen, no localized name, playable
-so_sabotage_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;;loads, invisible props, no loadscreen, no compass, no localized name, playable
-so_snowrace1_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;;loads, invisible props, no loadscreen, no compass, no localized name, playable
-so_snowrace2_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;;loads, invisible props, no loadscreen, no compass, no localized name, playable
-airport;✅;✅;❌;❌;❌;✅;✅;;black devball over the map (visible);loads, , no loadscreen, no localized name, playable
-so_escape_airport;✅;✅;❌;❌;❌;✅;✅;;;loads, no loadscreen, no compass, no localized name, playable
-favela;✅;✅;❌;❌;✅;✅;✅;;;loads, fx errors, no loadscreen, no localized name, playable
-so_killspree_favela;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no loadscreen, no compass, no localized name, playable
-so_juggernauts_favela;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no loadscreen, no compass, no localized name, playable
-invasion;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_compass.gsc""";;does not load, Error: ., no loadscreen, no localized name, playable
-so_chopper_invasion;✅;✅;❌;❌;❌;✅;✅;;;loads, no preview, no compass, no localized name, playable
-so_killspree_invasion;✅;✅;❌;❌;❌;✅;✅;;;loads, no preview, no compass, no localized name, playable
-so_defense_invasion;✅;✅;❌;❌;❌;✅;✅;;;loads, no preview, no compass, no localized name, playable
-favela_escape;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";;does not load, Error: , has loadscreen, ? compass, no localized name
-so_defuse_favela_escape;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no compass, no localized name, playable
-arcadia;✅;✅;❌;❌;✅;✅;✅;;;loads, has fx errors, no loadscreen, has compass, no localized name, playable
-so_download_arcadia;✅;✅;❌;❌;❌;✅;✅;;;loads, fx errors, no preview, no compass, no localized name, playable
+mapname;playable;no crash;localized name;loadscreen;compass;no error viewmodel;no invisible props;error;notes
+af_caves;✅;✅;❌;❌;✅;✅;✅;;tank with jeep hitbox, can glitch under map
+af_chase;✅;✅;❌;❌;✅;✅;✅;;
+airport;✅;✅;❌;❌;❌;✅;✅;;black devball over the map (visible)
+arcadia;✅;✅;❌;❌;✅;✅;✅;;
+boneyard;✅;✅;❌;❌;✅;✅;✅;;had script loop error
+cliffhanger;✅;✅;❌;❌;✅;✅;❌;;
+contingency;⚠️;✅;❌;❌;✅;✅;✅;;stutters, invisible grenades,
+dc_whitehouse;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";
+dcburning;✅;✅;❌;❌;✅;✅;✅;;
+dcemp;✅;✅;❌;❌;✅;✅;✅;;
+ending;✅;✅;❌;❌;✅;✅;✅;;weapon pickups with low ammo, ammo boxes not working
+estate;✅;✅;❌;❌;✅;✅;✅;;
+favela;✅;✅;❌;❌;✅;✅;✅;;
+favela_escape;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";
+gulag;✅;✅;❌;❌;✅;✅;✅;;
+invasion;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_compass.gsc""";
+oilrig;✅;✅;❌;❌;✅;✅;✅;;
+roadkill;✅;✅;❌;❌;✅;✅;✅;;
+so_ac130_co_hunted;❌;✅;❌;❌;❌;✅;✅;;
+so_assault_oilrig;❌;✅;❌;❌;❌;❌;✅;;
+so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_bridge.gsc""";
+so_chopper_invasion;✅;✅;❌;❌;❌;✅;✅;;
+so_crossing_so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_crossing_so_bridge.gsc""";
+so_defense_invasion;✅;✅;❌;❌;❌;✅;✅;;
+so_defuse_favela_escape;✅;✅;❌;❌;❌;✅;✅;;
+so_demo_so_bridge;❔;❌;❌;❌;❔;❔;✅;"Could not load rawfile ""maps/mp/so_demo_so_bridge.gsc""";
+so_download_arcadia;✅;✅;❌;❌;❌;✅;✅;;
+so_escape_airport;✅;✅;❌;❌;❌;✅;✅;;
+so_forest_contingency;✅;✅;❌;❌;❌;✅;✅;;
+so_ghillies;✅;✅;❌;❌;❌;✅;✅;;
+so_hidden_so_ghillies;✅;✅;❌;❌;❌;✅;✅;;
+so_intel_boneyard;✅;✅;❌;❌;❌;✅;✅;;
+so_juggernauts_favela;✅;✅;❌;❌;❌;✅;✅;;
+so_killspree_favela;✅;✅;❌;❌;❌;✅;✅;;
+so_killspree_invasion;✅;✅;❌;❌;❌;✅;✅;;
+so_killspree_trainer;✅;✅;❌;❌;❌;✅;✅;;
+so_rooftop_contingency;✅;✅;❌;❌;❌;✅;✅;;
+so_sabotage_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;
+so_showers_gulag;✅;✅;❌;❌;❌;✅;✅;;
+so_snowrace1_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;
+so_snowrace2_cliffhanger;✅;✅;❌;❌;❌;✅;❌;;
+so_takeover_estate;✅;✅;❌;❌;❌;✅;✅;;
+so_takeover_oilrig;❌;✅;❌;❌;❌;❌;✅;;
+trainer;❔;✅;❌;❌;❔;✅;✅;"Could not load rawfile ""maps/_utility.gsc""";
