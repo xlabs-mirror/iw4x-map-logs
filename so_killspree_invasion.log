@@ -1,0 +1,3429 @@
+[      1348] '-disable-notifies -unprotect-dvars -multiplayer -scriptablehttp -console -nointro -language english +bind F1 toggleconsole +set logfile 1'
+[      1350] Build r4500-develop latest Feb 19 2024 21:18:43. Logfile opened on Thu Feb 22 15:34:38 2024
+
+[      1350] Current language: english
+[      1352] Current search path:
+[      1354] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_spectatorkick.iwd (2 files)
+[      1356] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_showhp.iwd (2 files)
+[      1358] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_fpsboost.iwd (3 files)
+[      1361] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots_localisation_de.iwd (4 files)
+[      1363] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots_localisation.iwd (7 files)
+[      1365] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots.iwd (184 files)
+[      1367] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_killstreaks_remastered.iwd (14 files)
+[      1370] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_iw4x_gsc.iwd (76 files)
+[      1373] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_iw4madmin.iwd (11 files)
+[      1376] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_sp_maps_images.iwd (134 files)
+[      1379] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_sp_maps_fix.iwd (433 files)
+[      1383] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_mapvote.iwd (315 files)
+[      1386] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_LoadScreen.iwd (53 files)
+[      1388] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_fix_scripterrors.iwd (6 files)
+[      1390] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/userraw
+[      1393] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_05.iwd (4325 files)
+[      1395] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_04.iwd (853 files)
+[      1397] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_03.iwd (742 files)
+[      1399] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_02.iwd (1 files)
+[      1402] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_01.iwd (137 files)
+[      1404] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_00.iwd (916 files)
+[      1406] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/iw4x
+[      1408] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc9_00.iwd (939 files)
+[      1411] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc8_00.iwd (2070 files)
+[      1414] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc7_00.iwd (829 files)
+[      1417] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc6_00.iwd (711 files)
+[      1420] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc5_01.iwd (196 files)
+[      1423] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc5_00.iwd (1986 files)
+[      1427] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc4_01.iwd (274 files)
+[      1430] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc4_00.iwd (1186 files)
+[      1433] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc3_00.iwd (1350 files)
+[      1437] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc10_00.iwd (6505 files)
+[      1440] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_23.iwd (425 files)
+[      1444] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_22.iwd (430 files)
+[      1448] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_21.iwd (46 files)
+[      1452] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_20.iwd (86 files)
+[      1455] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_19.iwd (57 files)
+[      1459] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_18.iwd (61 files)
+[      1464] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_17.iwd (125 files)
+[      1467] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_16.iwd (171 files)
+[      1472] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_15.iwd (198 files)
+[      1478] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_14.iwd (406 files)
+[      1484] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_13.iwd (63 files)
+[      1488] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_12.iwd (31 files)
+[      1492] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_11.iwd (297 files)
+[      1500] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_10.iwd (556 files)
+[      1504] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_09.iwd (716 files)
+[      1511] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_08.iwd (886 files)
+[      1520] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_07.iwd (782 files)
+[      1523] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_06.iwd (481 files)
+[      1528] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_05.iwd (952 files)
+[      1532] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_04.iwd (1005 files)
+[      1535] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_03.iwd (1437 files)
+[      1540] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_02.iwd (1391 files)
+[      1548] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_01.iwd (1272 files)
+[      1554] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_00.iwd (1428 files)
+[      1558] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/main
+[      1565] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/main_shared
+[      1570] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/players
+[      1575] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/raw
+[      1583] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/raw_shared
+[      1587] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/devraw
+[      1591] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/devraw_shared
+[      1596] 
+File Handles:
+[      1599] handle 1: logs/console_mp.log
+[      1602] ----------------------
+[      1609] 55042 files in iwd files
+[      1621] Adding channel: error
+[      1624] Adding channel: gamenotify
+[      1628] Adding channel: boldgame
+[      1632] Adding channel: subtitle
+[      1635] Adding channel: obituary
+[      1641] Adding channel: logfile_only
+[      1646] Adding channel: console_only
+[      1649] Adding channel: gfx
+[      1652] Adding channel: sound
+[      1655] Adding channel: files
+[      1658] Adding channel: devgui
+[      1662] Adding channel: profile
+[      1666] Adding channel: ui
+[      1670] Adding channel: client
+[      1673] Adding channel: server
+[      1676] Adding channel: system
+[      1678] Adding channel: playerweap
+[      1680] Adding channel: ai
+[      1683] Adding channel: anim
+[      1685] Adding channel: physics
+[      1686] Adding channel: fx
+[      1689] Adding channel: leaderboards
+[      1690] Adding channel: parserscript
+[      1693] Adding channel: script
+[      1695] Adding channel: network
+[      1698] No channels added or hidden
+[      1701] Adding channel: error
+[      1704] Adding channel: error
+[      1707] No channels added or hidden
+[      1710] Adding channel: gamenotify
+[      1712] Adding channel: obituary
+[      1714] No channels added or hidden
+[      1716] Adding channel: boldgame
+[      1718] No channels added or hidden
+[      1720] Adding channel: subtitle
+[      1722] No channels added or hidden
+[      1728] Loading fastfile code_pre_gfx_mp
+[      1731] Loading fastfile localized_code_pre_gfx_mp
+[      1733] Loading fastfile patch_code_pre_gfx_mp
+[      1744] execing default_mp.cfg from disk
+[      1747] execing default_mp_controls.cfg from disk
+[      1749] execing default_mp_controller.cfg from disk
+[      1751] No channels added or hidden
+[      1753] execing default_mp_gamesettings.cfg from disk
+[      1756] execing default_filter.cfg from disk
+[      1761] execing language.cfg from fastfile
+[      1766] execing iw4x_config.cfg from disk
+[      1771] Hiding channel: error
+[      1776] Hiding channel: gamenotify
+[      1780] Hiding channel: boldgame
+[      1783] Hiding channel: subtitle
+[      1785] Hiding channel: obituary
+[      1787] Hiding channel: logfile_only
+[      1790] Hiding channel: console_only
+[      1792] Hiding channel: gfx
+[      1795] Hiding channel: sound
+[      1797] Hiding channel: files
+[      1799] Hiding channel: devgui
+[      1801] Hiding channel: profile
+[      1803] Hiding channel: ui
+[      1806] Hiding channel: client
+[      1808] Hiding channel: server
+[      1811] Hiding channel: system
+[      1813] Hiding channel: playerweap
+[      1815] Hiding channel: ai
+[      1819] Hiding channel: anim
+[      1822] Hiding channel: physics
+[      1825] Hiding channel: fx
+[      1827] Hiding channel: leaderboards
+[      1829] Hiding channel: parserscript
+[      1832] Hiding channel: script
+[      1834] Hiding channel: network
+[      1837] No channels added or hidden
+[      1839] Adding channel: error
+[      1842] Adding channel: gamenotify
+[      1844] Adding channel: boldgame
+[      1847] Adding channel: subtitle
+[      1850] Adding channel: obituary
+[      1854] Adding channel: logfile_only
+[      1856] Adding channel: console_only
+[      1859] Adding channel: gfx
+[      1862] Adding channel: sound
+[      1865] Adding channel: files
+[      1867] Adding channel: devgui
+[      1869] Adding channel: profile
+[      1872] Adding channel: ui
+[      1874] Adding channel: client
+[      1877] Adding channel: server
+[      1879] Adding channel: system
+[      1883] Adding channel: playerweap
+[      1886] Adding channel: ai
+[      1889] Adding channel: anim
+[      1891] Adding channel: physics
+[      1894] Adding channel: fx
+[      1899] Adding channel: leaderboards
+[      1902] Adding channel: parserscript
+[      1904] Adding channel: script
+[      1906] Adding channel: network
+[      1909] Parsing playlist 'playlists_default.info'...
+[      1916] CPU vendor is "GenuineIntel"
+[      1918] CPU name is "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz"
+[      1920] 4 logical CPUs reported
+[      1922] 4 physical CPUs detected
+[      1925] Measured CPU speed is 2.90 GHz
+[      1930] Total CPU performance is estimated as 26.89 GHz
+[      1932] System memory is 2048 MB (capped at 2 GB)
+[      1935] Video card is "NVIDIA GeForce GTX 1050 Ti"
+[      1937] Streaming SIMD Extensions (SSE) supported
+[      1939] 
+[      1944] Winsock Initialized
+[      1948] Opening IP socket: localhost:28960
+[      1968] Hostname: Bluscream-PC
+[      1971] IP: 192.168.2.48
+[      1974] IP: 192.168.2.44
+[      1983] UPNP: Testing device 'urn:schemas-upnp-org:device:InternetGatewayDevice:1' by sending packet to 239.255.255.250:1900
+[      1992] UPNP: Testing device 'urn:schemas-upnp-org:service:WANIPConnection:1' by sending packet to 239.255.255.250:1900
+[      1999] UPNP: Testing device 'urn:schemas-upnp-org:service:WANPPPConnection:1' by sending packet to 239.255.255.250:1900
+[      2009] UPNP: Testing device 'upnp:rootdevice' by sending packet to 239.255.255.250:1900
+[      2024] ----- Initializing Renderer ----
+[      2035] execing ragdoll.cfg from fastfile
+[      2043] ----- Client Initialization -----
+[      2053] ----- Client Initialization Complete -----
+[      2073] Attempting 44 kHz 16 bit [Windows default] sound
+[      2281] ----- R_Init -----
+[      2284] Getting Direct3D 9 interface...
+[      2483] Pixel shader version is 3.0
+[      2486] Vertex shader version is 3.0
+[      2488] Shader model 3.0 code path is available.
+[      2490] Using Shader model 3.0 code path because it is the best available path on this hardware.
+[      2493] Attempting 1920 x 1080 fullscreen with 32 bpp at 60 hz
+[      2498] Game window successfully created.
+[      2508] Using 4x quality 0 anti-aliasing
+[      2511] Creating Direct3D device...
+[      2618] Com_TouchMemory: 0 msec. Using sum: 0
+[      2645] Loading fastfile code_post_gfx_mp
+[      2647] Loading fastfile localized_code_post_gfx_mp
+[      2649] Loading fastfile patch_mp
+[      2651] Loading fastfile iw4x_code_post_gfx_mp
+[      2895] Loading fastfile localized_ui_mp
+[      2898] Loading fastfile ui_mp
+[      2900] Loading fastfile common_mp
+[      2902] Loading fastfile localized_common_mp
+[      2904] Loading fastfile iw4x_patch_mp
+[      2907] Loading fastfile iw4x_ui_mp
+[      2910] Loading fastfile iw4x_localized_english
+[      2912] Initializing render targets...
+[      2915] Requested frame buffer to be 24-bit color with 8-bit alpha
+[      2917] DirectX returned a frame buffer that is 24-bit color with 8-bit alpha
+[      2926] Initializing static model cache...
+[      2929] Initializing dynamic buffers...
+[      2932] Initializing particle cloud buffer...
+[      3063] Creating Direct3D queries...
+[      3077] Setting initial state...
+[      3113] Video memory for device: 3072 MB.
+[      3115] Rounded video memory size: 2048 MB.
+[      3118] Available DirectX texture memory: 4095 MB.
+[      3120] DirectX reports 2048 MB of video memory and 4095 MB of available texture memory.
+[      3123] Using video memory size to cap used texture memory at 2032 MB.
+[      3126] Using reported available texture memory: 2032 MB.
+[      3129] Picmip is set manually.
+[      3131] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[      3148] 
+------- sound system initialization -------
+[      3155] ------- sound system successfully initialized -------
+[      3427] GamerProfile - Updating for controller #0 without saving.
+
+[      3429] Reading profile for controller 0
+[      3465] GamerProfile - Updating for controller #0 without saving.
+
+[      3471] --- Common Initialization Complete ---
+[      3471] =============================== DVAR DUMP ========================================
+[      3472]       actionSlotsHide "0"
+[      3472]       activeAction ""
+[      3472]       ai_corpseCount "16"
+[      3472]       aim_accel_turnrate_debug "0"
+[      3472]       aim_accel_turnrate_enabled "1"
+[      3472]       aim_accel_turnrate_lerp "1200"
+[      3472]       aim_aimAssistRangeScale "1"
+[      3472]       aim_autoaim_debug "0"
+[      3472]       aim_autoaim_enabled "0"
+[      3472]       aim_autoaim_lerp "40"
+[      3472]       aim_autoaim_region_height "120"
+[      3472]       aim_autoaim_region_width "160"
+[      3472]       aim_autoAimRangeScale "1"
+[      3472]       aim_automelee_debug "0"
+[      3472]       aim_automelee_enabled "1"
+[      3472]       aim_automelee_lerp "40"
+[      3472]       aim_automelee_range "128"
+[      3472]       aim_automelee_region_height "240"
+[      3472]       aim_automelee_region_width "320"
+[      3472]       aim_input_graph_debug "0"
+[      3472]       aim_input_graph_enabled "1"
+[      3472]       aim_input_graph_index "3"
+[      3472]       aim_lockon_debug "0"
+[      3472]       aim_lockon_deflection "0.05"
+[      3472]       aim_lockon_enabled "1"
+[      3472]       aim_lockon_pitch_strength ""
+[      3472]       aim_lockon_region_height "90"
+[      3472]       aim_lockon_region_width "90"
+[      3472]       aim_lockon_strength "0.6"
+[      3472]       aim_scale_view_axis "1"
+[      3472]       aim_slowdown_debug "0"
+[      3472]       aim_slowdown_enabled "1"
+[      3472]       aim_slowdown_pitch_scale "0.4"
+[      3472]       aim_slowdown_pitch_scale_ads "0.5"
+[      3472]       aim_slowdown_region_height "90"
+[      3472]       aim_slowdown_region_width "90"
+[      3472]       aim_slowdown_yaw_scale "0.4"
+[      3472]       aim_slowdown_yaw_scale_ads "0.5"
+[      3472]       aim_turnrate_pitch "90"
+[      3472]       aim_turnrate_pitch_ads "55"
+[      3472]       aim_turnrate_yaw "260"
+[      3472]       aim_turnrate_yaw_ads "90"
+[      3472]       aimAssist "0"
+[      3472]       ammoCounterHide "0"
+[      3472]       authPort "20800"
+[      3472]       authServerName "cod4master.activision.com"
+[      3472]       badhost_debug "0"
+[      3472]       badhost_endGameIfISuck "1"
+[      3472]       badhost_maxDoISuckFrames "300"
+[      3472]       badhost_maxHappyPingTime "400"
+[      3472]       badhost_minPercentClientsUnhappyToSuck "0.51"
+[      3472]       badhost_minTotalClientsForHappyTest "3"
+[      3472]       band_12players "384000"
+[      3472]       band_18players "580000"
+[      3472]       band_2players "64000"
+[      3472]       band_4players "128000"
+[      3472]       band_8players "256000"
+[      3472]       bandwidthtest_announceinterval "200"
+[      3472]       bandwidthtest_duration "500"
+[      3472]       bandwidthtest_enable "1"
+[      3472]       bandwidthtest_fudge "1"
+[      3472]       bandwidthtest_ingame_enable "1"
+[      3472]       bandwidthtest_ingame_fudge "1"
+[      3472]       bandwidthtest_maxpacketsize "1000"
+[      3472]       bandwidthtest_quota "0.5"
+[      3472]       bandwidthtest_rounds "10"
+[      3472]       bandwidthtest_scalar "2"
+[      3472]       bandwidthtest_timeout "1500"
+[      3472]       bg_aimSpreadMoveSpeedThreshold "11"
+[      3472]       bg_bounces "disabled"
+[      3472]       bg_bouncesAllAngles "disabled"
+[      3472]       bg_bulletExplDmgFactor "1"
+[      3472]       bg_bulletExplRadius "250"
+[      3472]       bg_bulletRange "8192"
+[      3472]       bg_bunnyHopAuto "0"
+[      3472]       bg_climbAnything "0"
+[      3472]       bg_debugProne "0"
+[      3472]       bg_disableLandingSlowdown "0"
+[      3472]       bg_elevators "normal"
+[      3472]       bg_fallDamageMaxHeight "300"
+[      3472]       bg_fallDamageMinHeight "128"
+[      3472]       bg_foliagesnd_fastinterval "500"
+[      3472]       bg_foliagesnd_maxspeed "180"
+[      3472]       bg_foliagesnd_minspeed "40"
+[      3472]       bg_foliagesnd_resetinterval "500"
+[      3472]       bg_foliagesnd_slowinterval "1500"
+[      3472]       bg_forceDualWield "0"
+[      3472]       bg_forceExplosiveBullets "0"
+[      3472]       bg_ladder_yawcap "100"
+[      3472]       bg_lean "1"
+[      3472]       bg_legYawTolerance "20"
+[      3472]       bg_lowGravity "800"
+[      3472]       bg_maxGrenadeIndicatorSpeed "100"
+[      3472]       bg_playerCollision "1"
+[      3472]       bg_playerEjection "1"
+[      3472]       bg_prone_yawcap "85"
+[      3472]       bg_recoilMultiplier "1"
+[      3472]       bg_rocketJump "0"
+[      3472]       bg_rocketJumpScale "64"
+[      3472]       bg_shieldHitEncodeHeightVM "-10 10"
+[      3472]       bg_shieldHitEncodeHeightWorld "-25 20"
+[      3472]       bg_shieldHitEncodeWidthVM "-16 16"
+[      3472]       bg_shieldHitEncodeWidthWorld "-14 14"
+[      3472]       bg_shock_lookControl "1"
+[      3472]       bg_shock_lookControl_fadeTime "2"
+[      3472]       bg_shock_lookControl_maxpitchspeed "90"
+[      3472]       bg_shock_lookControl_maxyawspeed "90"
+[      3472]       bg_shock_lookControl_mousesensitivityscale "0.5"
+[      3472]       bg_shock_movement "1"
+[      3472]       bg_shock_screenBlurBlendFadeTime "1"
+[      3472]       bg_shock_screenBlurBlendTime "0.4"
+[      3472]       bg_shock_screenFlashShotFadeTime "1"
+[      3472]       bg_shock_screenFlashWhiteFadeTime "1"
+[      3472]       bg_shock_screenType "blurred"
+[      3472]       bg_shock_sound "1"
+[      3472]       bg_shock_soundDryLevel "1"
+[      3472]       bg_shock_soundEnd "shellshock_end"
+[      3472]       bg_shock_soundEndAbort "shellshock_end_abort"
+[      3472]       bg_shock_soundFadeInTime "0.25"
+[      3472]       bg_shock_soundFadeOutTime "2.5"
+[      3472]       bg_shock_soundLoop "shellshock_loop"
+[      3472]       bg_shock_soundLoopEndDelay "-3"
+[      3472]       bg_shock_soundLoopFadeTime "1.5"
+[      3472]       bg_shock_soundLoopSilent "shellshock_loop_silent"
+[      3472]       bg_shock_soundModEndDelay "2"
+[      3472]       bg_shock_soundRoomType "generic"
+[      3472]       bg_shock_soundWetLevel "0.5"
+[      3472]       bg_shock_viewKickFadeTime "3"
+[      3472]       bg_shock_viewKickPeriod "0.75"
+[      3472]       bg_shock_viewKickRadius "0.05"
+[      3472]       bg_shock_volume_ambdist1 "0.5"
+[      3472]       bg_shock_volume_ambdist2 "0.5"
+[      3472]       bg_shock_volume_ambient "0.5"
+[      3472]       bg_shock_volume_announcer "0.5"
+[      3472]       bg_shock_volume_auto "0.5"
+[      3472]       bg_shock_volume_auto2 "0.5"
+[      3472]       bg_shock_volume_auto2d "0.5"
+[      3472]       bg_shock_volume_autodog "0.5"
+[      3472]       bg_shock_volume_body "0.5"
+[      3472]       bg_shock_volume_body2d "0.5"
+[      3472]       bg_shock_volume_bulletimpact "0.5"
+[      3472]       bg_shock_volume_bulletwhizby "0.5"
+[      3472]       bg_shock_volume_effects1 "0.5"
+[      3472]       bg_shock_volume_effects2 "0.5"
+[      3472]       bg_shock_volume_element "0.5"
+[      3472]       bg_shock_volume_explosiveimpact "0.5"
+[      3472]       bg_shock_volume_hurt "0.5"
+[      3472]       bg_shock_volume_item "0.5"
+[      3472]       bg_shock_volume_local "0.5"
+[      3472]       bg_shock_volume_local2 "0.5"
+[      3472]       bg_shock_volume_local3 "0.5"
+[      3472]       bg_shock_volume_menu "0.5"
+[      3472]       bg_shock_volume_mission "0.5"
+[      3472]       bg_shock_volume_music "0.5"
+[      3472]       bg_shock_volume_musicnopause "0.5"
+[      3472]       bg_shock_volume_nonshock "0.5"
+[      3472]       bg_shock_volume_physics "0.5"
+[      3472]       bg_shock_volume_player1 "0.5"
+[      3472]       bg_shock_volume_player2 "0.5"
+[      3472]       bg_shock_volume_reload "0.5"
+[      3472]       bg_shock_volume_reload2d "0.5"
+[      3472]       bg_shock_volume_shellshock "0.5"
+[      3472]       bg_shock_volume_vehicle "0.5"
+[      3472]       bg_shock_volume_vehiclelimited "0.5"
+[      3472]       bg_shock_volume_voice "0.5"
+[      3472]       bg_shock_volume_weapon "0.5"
+[      3472]       bg_shock_volume_weapon2d "0.5"
+[      3472]       bg_softLandingMaxDamage "0.1"
+[      3472]       bg_softLandingMaxHeight "300"
+[      3472]       bg_softLandingMinHeight "128"
+[      3472]       bg_surfacePenetration "0"
+[      3472]       bg_swingSpeed "0.2"
+[      3472]       bg_viewBobAmplitudeBase "0.16"
+[      3472]       bg_viewBobAmplitudeDucked "0.0075 0.0075"
+[      3472]       bg_viewBobAmplitudeDuckedAds "0.0075 0.0075"
+[      3472]       bg_viewBobAmplitudeProne "0.02 0.005"
+[      3472]       bg_viewBobAmplitudeRoll "1.5"
+[      3472]       bg_viewBobAmplitudeSprinting "0.02 0.014"
+[      3472]       bg_viewBobAmplitudeStanding "0.007 0.007"
+[      3472]       bg_viewBobAmplitudeStandingAds "0.007 0.007"
+[      3472]       bg_viewBobLag "0.25"
+[      3472]       bg_viewBobMax "8"
+[      3472]       bg_viewKickMax "90"
+[      3472]       bg_viewKickMin "5"
+[      3472]       bg_viewKickRandom "0.4"
+[      3472]       bg_viewKickScale "0.2"
+[      3472]       bg_weaponBobAmplitudeBase "0.16"
+[      3472]       bg_weaponBobAmplitudeDucked "0.045 0.025"
+[      3472]       bg_weaponBobAmplitudeProne "0.02 0.005"
+[      3472]       bg_weaponBobAmplitudeRoll "1.5"
+[      3472]       bg_weaponBobAmplitudeSprinting "0.02 0.014"
+[      3472]       bg_weaponBobAmplitudeStanding "0.055 0.025"
+[      3472]       bg_weaponBobLag "0.25"
+[      3472]       bg_weaponBobMax "8"
+[      3472]       bg_weaponOffHandFix "1"
+[      3472]       bots_custom_clantag "PIET"
+[      3472]       bots_custom_ping "-1"
+[      3472]       bots_custom_title "PietSmiet"
+[      3472]       bots_loadout_allow_op "1"
+[      3472]       bots_loadout_prestige "-2"
+[      3472]       bots_loadout_rank "0"
+[      3472]       bots_loadout_reasonable "0"
+[      3472]       bots_main "0"
+[      3472]       bots_main_chat "0.005"
+[      3472]       bots_main_debug "0"
+[      3472]       bots_main_firstIsHost "e9fd6b28ed56c05c"
+[      3472]       bots_main_GUIDs "e9fd6b28ed56c05c"
+[      3472]       bots_main_kickBotsAtEnd "0"
+[      3472]       bots_main_menu "0"
+[      3472]       bots_main_waitForHostTime "999"
+[      3472]       bots_manage_add "18"
+[      3472]       bots_manage_fill "18"
+[      3472]       bots_manage_fill_kick "1"
+[      3472]       bots_manage_fill_mode "0"
+[      3472]       bots_manage_fill_spec "1"
+[      3472]       bots_play_ads "1"
+[      3472]       bots_play_aim "1"
+[      3472]       bots_play_camp "1"
+[      3472]       bots_play_fire "1"
+[      3472]       bots_play_jumpdrop "1"
+[      3472]       bots_play_killstreak "1"
+[      3472]       bots_play_knife "1"
+[      3472]       bots_play_move "1"
+[      3472]       bots_play_nade "1"
+[      3472]       bots_play_obj "1"
+[      3472]       bots_play_take_carepackages "1"
+[      3472]       bots_play_target_other "1"
+[      3472]       bots_random_ping "1"
+[      3472]       bots_random_ping_max "300"
+[      3472]       bots_random_ping_min "5"
+[      3472]       bots_skill "7"
+[      3472]       bots_team "autoassign"
+[      3472]       bots_team_amount "0"
+[      3472]       bots_team_force "0"
+[      3472]       bots_team_mode "0"
+[      3472]       bug_name "bug0"
+[      3472]       bullet_penetration_enabled "1"
+[      3472]       bullet_penetrationMinFxDist "30"
+[      3472]       bullet_ricochetBaseChance "0.5"
+[      3472]       camera_thirdPerson "0"
+[      3472]       camera_thirdPersonAdsTransScale "2"
+[      3472]       camera_thirdPersonCrosshairOffset "0.35"
+[      3472]       camera_thirdPersonFovScale "0.9"
+[      3472]       camera_thirdPersonOffset "-120 0 14"
+[      3472]       camera_thirdPersonOffsetAds "-60 -20 4"
+[      3472]       camera_thirdPersonOffsetTurretAds "-80 0 14"
+[      3472]       cameraShakeRemoteHelo_Angles "0.221 0.15 2"
+[      3472]       cameraShakeRemoteHelo_Freqs "31 90 0.5"
+[      3472]       cameraShakeRemoteHelo_SpeedRange "2000 5000"
+[      3472]       cameraShakeRemoteMissile_Angles "0.05 0.7 0.07"
+[      3472]       cameraShakeRemoteMissile_Freqs "42 0.7 100"
+[      3472]       cameraShakeRemoteMissile_SpeedRange "1000 4000"
+[      3472]       cg_airstrikeKillCamCloseXYDist "24"
+[      3472]       cg_airstrikeKillCamCloseZDist "24"
+[      3472]       cg_airstrikeKillCamFarBlur "2"
+[      3472]       cg_airstrikeKillCamFarBlurDist "300"
+[      3472]       cg_airstrikeKillCamFarBlurStart "100"
+[      3472]       cg_airstrikeKillCamFov "50"
+[      3472]       cg_airstrikeKillCamNearBlur "4"
+[      3472]       cg_airstrikeKillCamNearBlurEnd "100"
+[      3472]       cg_airstrikeKillCamNearBlurStart "0"
+[      3472]       cg_blood "1"
+[      3472]       cg_brass "1"
+[      3472]       cg_centertime "5"
+[      3472]       cg_chatHeight "8"
+[      3472]       cg_chatTime "20000"
+[      3472]       cg_chatWidth "99"
+[      3472]       cg_chatWithOtherTeams "0"
+[      3472]       cg_connectionIconSize "0"
+[      3472]       cg_constantSizeHeadIcons "0"
+[      3472]       cg_crosshairAlpha "1"
+[      3472]       cg_crosshairAlphaMin "0.5"
+[      3472]       cg_crosshairDynamic "0"
+[      3472]       cg_crosshairEnemyColor "1"
+[      3472]       cg_crosshairVerticalOffset "0"
+[      3473]       cg_cullBulletAngle "50"
+[      3473]       cg_cullBullets "1"
+[      3473]       cg_cursorHints "4"
+[      3473]       cg_deadChatWithDead "0"
+[      3473]       cg_deadChatWithTeam "0"
+[      3473]       cg_deadHearAllLiving "0"
+[      3473]       cg_deadHearTeamLiving "0"
+[      3473]       cg_debug_overlay_viewport "0"
+[      3473]       cg_debugevents "-1"
+[      3473]       cg_debugInfoCornerOffset "0 -30"
+[      3473]       cg_debugposition "0"
+[      3473]       cg_descriptiveText "1"
+[      3473]       cg_dobjdump "-1"
+[      3473]       cg_draw2D "1"
+[      3473]       cg_drawBreathHint "1"
+[      3473]       cg_drawCrosshair "1"
+[      3473]       cg_drawCrosshairNames "1"
+[      3473]       cg_drawCrosshairNamesPosX "300"
+[      3473]       cg_drawCrosshairNamesPosY "180"
+[      3473]       cg_drawDamageDirection "1"
+[      3473]       cg_drawDamageFlash "0"
+[      3473]       cg_drawDisconnect "0"
+[      3473]       cg_drawFPS "Simple"
+[      3473]       cg_drawFPSLabels "0"
+[      3473]       cg_drawFriendlyNames "1"
+[      3473]       cg_drawGun "1"
+[      3473]       cg_drawHealth "0"
+[      3473]       cg_drawMantleHint "1"
+[      3473]       cg_drawMaterial "Off"
+[      3473]       cg_drawpaused "1"
+[      3473]       cg_drawScriptUsage "0"
+[      3473]       cg_drawShellshock "1"
+[      3473]       cg_drawSnapshot "0"
+[      3473]       cg_drawSplatter "0"
+[      3473]       cg_drawSplatterTest "0"
+[      3473]       cg_drawStatsSource "0"
+[      3473]       cg_drawTalk "ALL"
+[      3473]       cg_drawThroughWalls "0"
+[      3473]       cg_drawTurretCrosshair "1"
+[      3473]       cg_drawVersion "0"
+[      3473]       cg_drawVersionX "10"
+[      3473]       cg_drawVersionY "455"
+[      3473]       cg_drawViewpos "0"
+[      3473]       cg_dumpAnims "-1"
+[      3473]       cg_enemyNameFadeIn "250"
+[      3473]       cg_enemyNameFadeOut "250"
+[      3473]       cg_errordecay "100"
+[      3473]       cg_everyoneHearsEveryone "0"
+[      3473]       cg_explosiveKillCamBackDist "35"
+[      3473]       cg_explosiveKillCamGroundBackDist "30"
+[      3473]       cg_explosiveKillCamGroundUpDist "15"
+[      3473]       cg_explosiveKillCamStopDecelDist "100"
+[      3473]       cg_explosiveKillCamStopDist "350"
+[      3473]       cg_explosiveKillCamUpDist "5"
+[      3473]       cg_explosiveKillCamWallOutDist "10"
+[      3473]       cg_explosiveKillCamWallSideDist "30"
+[      3473]       cg_flashbangNameFadeIn "1000"
+[      3473]       cg_flashbangNameFadeOut "50"
+[      3473]       cg_fontIconAutocomplete "1"
+[      3473]       cg_fontIconAutocompleteHint "1"
+[      3473]       cg_footsteps "1"
+[      3473]       cg_fov "90"
+[      3473]       cg_fovMin "1"
+[      3473]       cg_fovScale "1"
+[      3473]       cg_friendlyNameFadeIn "0"
+[      3473]       cg_friendlyNameFadeOut "1500"
+[      3473]       cg_gameBoldMessageWidth "390"
+[      3473]       cg_gameMessageWidth "455"
+[      3473]       cg_gun_x "0"
+[      3473]       cg_gun_y "0"
+[      3473]       cg_gun_z "0"
+[      3473]       cg_headIconMinScreenRadius "0.025"
+[      3473]       cg_heliKillCamFarBlur "2"
+[      3473]       cg_heliKillCamFarBlurDist "300"
+[      3473]       cg_heliKillCamFarBlurStart "100"
+[      3473]       cg_heliKillCamFov "15"
+[      3473]       cg_heliKillCamNearBlur "4"
+[      3473]       cg_heliKillCamNearBlurEnd "100"
+[      3473]       cg_heliKillCamNearBlurStart "0"
+[      3473]       cg_hintFadeTime "100"
+[      3473]       cg_hudChatIntermissionPosition "5 110"
+[      3473]       cg_hudChatPosition "5 200"
+[      3473]       cg_hudDamageIconHeight "64"
+[      3473]       cg_hudDamageIconInScope "0"
+[      3473]       cg_hudDamageIconOffset "128"
+[      3473]       cg_hudDamageIconTime "6000"
+[      3473]       cg_hudDamageIconWidth "128"
+[      3473]       cg_hudGrenadeIconEnabledFlash "0"
+[      3473]       cg_hudGrenadeIconHeight "25"
+[      3473]       cg_hudGrenadeIconInScope "0"
+[      3473]       cg_hudGrenadeIconMaxHeight "104"
+[      3473]       cg_hudGrenadeIconMaxRangeFlash "500"
+[      3473]       cg_hudGrenadeIconMaxRangeFrag "250"
+[      3473]       cg_hudGrenadeIconOffset "50"
+[      3473]       cg_hudGrenadeIconWidth "25"
+[      3473]       cg_hudGrenadePointerHeight "12"
+[      3473]       cg_hudGrenadePointerPivot "12 27"
+[      3473]       cg_hudGrenadePointerPulseFreq "1.7"
+[      3473]       cg_hudGrenadePointerPulseMax "1.85"
+[      3473]       cg_hudGrenadePointerPulseMin "0.3"
+[      3473]       cg_hudGrenadePointerWidth "25"
+[      3473]       cg_hudlegacysplitscreenscale "2"
+[      3473]       cg_hudMapBorderWidth "2"
+[      3473]       cg_hudMapFriendlyHeight "15"
+[      3473]       cg_hudMapFriendlyWidth "15"
+[      3473]       cg_hudMapPlayerHeight "20"
+[      3473]       cg_hudMapPlayerWidth "20"
+[      3473]       cg_hudMapRadarLineThickness "0.15"
+[      3473]       cg_hudObjectiveTextScale "0.3"
+[      3473]       cg_hudProneY "-160"
+[      3473]       cg_hudSayPosition "5 191"
+[      3473]       cg_hudsplitscreencompassscale "1.5"
+[      3473]       cg_hudsplitscreenstancescale "2"
+[      3473]       cg_hudStanceFlash "1 1 1 1"
+[      3473]       cg_hudStanceHintPrints "0"
+[      3473]       cg_hudVotePosition "5 220"
+[      3473]       cg_invalidCmdHintBlinkInterval "600"
+[      3473]       cg_invalidCmdHintDuration "1800"
+[      3473]       cg_javelinKillCamCloseZDist "128"
+[      3473]       cg_javelinKillCamDownDist "150"
+[      3473]       cg_javelinKillCamFov "60"
+[      3473]       cg_javelinKillCamLookLerpDist "3000"
+[      3473]       cg_javelinKillCamPassDist "50"
+[      3473]       cg_javelinKillCamPassTime "5"
+[      3473]       cg_javelinKillCamUpDist "200"
+[      3473]       cg_killCamDefaultLerpTime "300"
+[      3473]       cg_killCamTurretLerpTime "900"
+[      3473]       cg_laserlight "0"
+[      3473]       cg_levelReverbDryLevel "0.9"
+[      3473]       cg_levelReverbEnabled "1"
+[      3473]       cg_levelReverbRoomType "city"
+[      3473]       cg_levelReverbWetLevel "0.15"
+[      3473]       cg_mapLocationSelectionCursorSpeed "0.6"
+[      3473]       cg_marks_ents_player_only "0"
+[      3473]       cg_minCullBulletDist "128"
+[      3473]       cg_newColors "1"
+[      3473]       cg_noclip_scaler "3"
+[      3473]       cg_nopredict "0"
+[      3473]       cg_overheadIconSize "0.7"
+[      3473]       cg_overheadNamesFarDist "1024"
+[      3473]       cg_overheadNamesFarScale "0.75"
+[      3473]       cg_overheadNamesFont "2"
+[      3473]       cg_overheadNamesGlow "0 0 0 1"
+[      3473]       cg_overheadNamesMaxDist "10000"
+[      3473]       cg_overheadNamesNearDist "256"
+[      3473]       cg_overheadNamesSize "0.5"
+[      3473]       cg_overheadRankSize "0.5"
+[      3473]       cg_overheadTitlesFont "2"
+[      3473]       cg_overheadTitleSize "0.5"
+[      3473]       cg_predictItems "1"
+[      3473]       cg_predictItemsDuration "5"
+[      3473]       cg_remoteMissileKillCamBackDist "300"
+[      3473]       cg_remoteMissileKillCamUpDist "60"
+[      3473]       cg_rocketKillCamBackDist "70"
+[      3473]       cg_rocketKillCamUpDist "10"
+[      3473]       cg_scoreboardBannerHeight "35"
+[      3473]       cg_scoreboardFont "0"
+[      3473]       cg_scoreboardHeaderFontScale "0.35"
+[      3473]       cg_scoreboardHeight "435"
+[      3473]       cg_scoreboardItemHeight "18"
+[      3473]       cg_scoreboardMyColor "1 0.8 0.4 1"
+[      3473]       cg_scoreboardPingGraph "1"
+[      3473]       cg_scoreboardPingHeight "0.7"
+[      3473]       cg_scoreboardPingText "1"
+[      3473]       cg_scoreboardPingWidth "0.036"
+[      3473]       cg_scoreboardRankFontScale "0.25"
+[      3473]       cg_scoreboardScrollStep "3"
+[      3473]       cg_scoreboardTextOffset "0.5"
+[      3473]       cg_scoreboardWidth "500"
+[      3473]       cg_ScoresPing_BgColor "0.25098 0.25098 0.25098 0.501961"
+[      3473]       cg_ScoresPing_HighColor "0.8 0 0 1"
+[      3473]       cg_ScoresPing_Interval "100"
+[      3473]       cg_ScoresPing_LowColor "0 0.74902 0 1"
+[      3473]       cg_ScoresPing_MaxBars "4"
+[      3473]       cg_ScoresPing_MedColor "0.8 0.8 0 1"
+[      3473]       cg_scriptIconSize "0"
+[      3473]       cg_showmiss "0"
+[      3473]       cg_splatterHitAlpha "1"
+[      3473]       cg_splatterHitFadeInTime "0.05"
+[      3473]       cg_splatterHitFadeOutTime "0.1"
+[      3473]       cg_splatterHitFullInTime "0"
+[      3473]       cg_splatterHitInnerAngle "15"
+[      3473]       cg_splatterHitInnerRadius "0"
+[      3473]       cg_splatterHitOntoScreen "0"
+[      3473]       cg_splatterHitOuterAngle "30"
+[      3473]       cg_splatterHitOuterRadius "0.6"
+[      3473]       cg_splatterTrackAlpha "1"
+[      3473]       cg_splatterTrackFadeInTime "0"
+[      3473]       cg_splatterTrackFadeOutTime "0.5"
+[      3473]       cg_splatterTrackFullInTime "0.3"
+[      3473]       cg_splatterTrackIndependent "1"
+[      3473]       cg_splatterTrackInnerAngle "5"
+[      3473]       cg_splatterTrackInnerRadius "0.4"
+[      3473]       cg_splatterTrackOntoScreen "0"
+[      3473]       cg_splatterTrackOuterAngle "20"
+[      3473]       cg_splatterTrackOuterRadius "0.6"
+[      3473]       cg_sprintMeterDisabledColor "0.8 0.1 0.1 0.2"
+[      3473]       cg_sprintMeterEmptyColor "0.7 0.5 0.2 0.8"
+[      3473]       cg_sprintMeterFullColor "0.8 0.8 0.8 0.8"
+[      3473]       cg_subtitleMinTime "3"
+[      3473]       cg_subtitleWidthStandard "520"
+[      3473]       cg_subtitleWidthWidescreen "600"
+[      3473]       cg_teamChatsOnly "0"
+[      3473]       cg_thirdPerson "0"
+[      3473]       cg_thirdPersonAngle "0"
+[      3473]       cg_thirdPersonMode "Fixed"
+[      3473]       cg_thirdPersonRange "120"
+[      3473]       cg_turretKillCamBackDist "10"
+[      3473]       cg_turretKillCamFov "50"
+[      3473]       cg_turretKillCamUpDist "10"
+[      3473]       cg_ufo_scaler "6"
+[      3473]       cg_viewVehicleInfluence "1"
+[      3473]       cg_viewZSmoothingMax "16"
+[      3473]       cg_viewZSmoothingMin "1"
+[      3473]       cg_viewZSmoothingTime "0.1"
+[      3473]       cg_voiceIconSize "0"
+[      3473]       cg_watersheeting "1"
+[      3473]       cg_waterSheeting_brightness "0"
+[      3473]       cg_waterSheeting_contrast "1"
+[      3473]       cg_waterSheeting_darkTint "1 1 1"
+[      3473]       cg_waterSheeting_desaturation "0"
+[      3473]       cg_waterSheeting_distortionScaleFactor "0.021961 1 0 0"
+[      3473]       cg_waterSheeting_enable "0"
+[      3473]       cg_waterSheeting_fadeDuration "2"
+[      3473]       cg_waterSheeting_lightTint "0.780261 1 1"
+[      3473]       cg_waterSheeting_magnitude "0.0655388"
+[      3473]       cg_waterSheeting_radius "4.44051"
+[      3473]       cg_weapHitCullAngle "45"
+[      3473]       cg_weapHitCullEnable "1"
+[      3473]       cg_weaponCycleDelay "0"
+[      3473]       cg_weaponHintsCoD1Style "1"
+[      3473]       cg_weaponVisInterval "4"
+[      3473]       cg_youInKillCamSize "6"
+[      3473]       cl_analog_attack_threshold "0.8"
+[      3473]       cl_anglespeedkey "1.5"
+[      3473]       cl_anonymous "0"
+[      3473]       cl_autoRecord "1"
+[      3473]       cl_bypassMouseInput "0"
+[      3473]       cl_connectionAttempts "15"
+[      3473]       cl_connectTimeout "120"
+[      3473]       cl_demoBackJump "20000"
+[      3473]       cl_demoFastTimescaleSpeed "3"
+[      3473]       cl_demoForwardJump "4000"
+[      3473]       cl_demosKeep "200"
+[      3473]       cl_demoSlowTimescaleSpeed "0.4"
+[      3473]       cl_dirSelConvergenceTime "0.1"
+[      3473]       cl_freelook "1"
+[      3473]       cl_freezeDemo "0"
+[      3473]       cl_hudDrawsBehindUI "1"
+[      3473]       cl_ingame "0"
+[      3473]       cl_maxpackets "100"
+[      3473]       cl_maxPing "300"
+[      3473]       cl_migrationTimeout "40"
+[      3473]       cl_modVidRestart "1"
+[      3473]       cl_motdString ""
+[      3473]       cl_mouseAccel "0"
+[      3473]       cl_nodelta "0"
+[      3473]       cl_noprint "0"
+[      3473]       cl_notifyFriendState "1"
+[      3473]       cl_packetdup "1"
+[      3473]       cl_paused "0"
+[      3473]       cl_pitchspeed "140"
+[      3473]       cl_serverStatusResendTime "750"
+[      3473]       cl_showmouserate "0"
+[      3473]       cl_shownet "0"
+[      3473]       cl_shownuments "0"
+[      3473]       cl_showSend "0"
+[      3473]       cl_showServerCommands "0"
+[      3473]       cl_showTimeDelta "0"
+[      3473]       cl_stanceHoldTime "300"
+[      3473]       cl_timeout "20"
+[      3473]       cl_updateAvailable "0"
+[      3473]       cl_voice "0"
+[      3473]       cl_yawspeed "140"
+[      3473]       clanName "GER"
+[      3473]       clientSideEffects "1"
+[      3473]       com_animCheck "0"
+[      3473]       com_cinematicEndInWhite "0"
+[      3473]       com_errorResolveCommand ""
+[      3473]       com_filter_output "0"
+[      3473]       com_logFilter "1"
+[      3473]       com_maxfps "60"
+[      3473]       com_maxFrameTime "100"
+[      3473]       com_recommendedSet "1"
+[      3473]       com_statmon "0"
+[      3473]       com_timescale "1"
+[      3473]       compass "1"
+[      3473]       compassClampIcons "1"
+[      3473]       compassCoords "740 3590 400"
+[      3473]       compassECoordCutoff "37"
+[      3473]       compassEnemyFootstepEnabled "0"
+[      3473]       compassEnemyFootstepMaxRange "500"
+[      3473]       compassEnemyFootstepMaxZ "100"
+[      3473]       compassEnemyFootstepMinSpeed "140"
+[      3473]       compassFastRadarUpdateTime "2"
+[      3473]       compassFriendlyHeight "16"
+[      3473]       compassFriendlyWidth "16"
+[      3473]       compassHellfireTargetSpot "0"
+[      3473]       compassHideSansObjectivePointer "0"
+[      3473]       compassHideVehicles "0"
+[      3473]       compassMaxRange "2500"
+[      3473]       compassMinRadius "0.0001"
+[      3473]       compassMinRange "0.0001"
+[      3473]       compassObjectiveArrowHeight "20"
+[      3473]       compassObjectiveArrowOffset "2"
+[      3473]       compassObjectiveArrowRotateDist "5"
+[      3473]       compassObjectiveArrowWidth "20"
+[      3473]       compassObjectiveDetailDist "10"
+[      3473]       compassObjectiveDrawLines "1"
+[      3473]       compassObjectiveHeight "20"
+[      3473]       compassObjectiveIconHeight "16"
+[      3473]       compassObjectiveIconWidth "16"
+[      3473]       compassObjectiveMaxHeight "70"
+[      3473]       compassObjectiveMaxRange "2048"
+[      3473]       compassObjectiveMinAlpha "1"
+[      3473]       compassObjectiveMinDistRange "1"
+[      3473]       compassObjectiveMinHeight "-70"
+[      3473]       compassObjectiveNearbyDist "4"
+[      3473]       compassObjectiveNumRings "10"
+[      3473]       compassObjectiveRingSize "80"
+[      3473]       compassObjectiveRingTime "10000"
+[      3473]       compassObjectiveTextHeight "18"
+[      3473]       compassObjectiveTextScale "0.3"
+[      3473]       compassObjectiveWidth "20"
+[      3473]       compassPlayerHeight "18.75"
+[      3473]       compassPlayerWidth "18.75"
+[      3473]       compassRadarLineThickness "0.4"
+[      3473]       compassRadarPingFadeTime "4"
+[      3473]       compassRadarUpdateTime "4"
+[      3473]       compassRotation "1"
+[      3473]       compassSize "1"
+[      3473]       compassSoundPingFadeTime "2"
+[      3473]       compassTickertapeStretch "0.5"
+[      3473]       con_default_console_filter "*"
+[      3473]       con_errormessagetime "8"
+[      3473]       con_gameMsgWindow0FadeInTime "0.25"
+[      3473]       con_gameMsgWindow0FadeOutTime "0.5"
+[      3473]       con_gameMsgWindow0Filter "gamenotify obituary"
+[      3473]       con_gameMsgWindow0LineCount "4"
+[      3473]       con_gameMsgWindow0MsgTime "5"
+[      3473]       con_gameMsgWindow0ScrollTime "0.25"
+[      3473]       con_gameMsgWindow0SplitscreenScale "1.5"
+[      3473]       con_gameMsgWindow1FadeInTime "0.25"
+[      3473]       con_gameMsgWindow1FadeOutTime "0.5"
+[      3473]       con_gameMsgWindow1Filter "boldgame"
+[      3473]       con_gameMsgWindow1LineCount "1"
+[      3473]       con_gameMsgWindow1MsgTime "3"
+[      3473]       con_gameMsgWindow1ScrollTime "0.25"
+[      3473]       con_gameMsgWindow1SplitscreenScale "1.5"
+[      3473]       con_gameMsgWindow2FadeInTime "0.75"
+[      3473]       con_gameMsgWindow2FadeOutTime "0.5"
+[      3473]       con_gameMsgWindow2Filter "subtitle"
+[      3473]       con_gameMsgWindow2LineCount "7"
+[      3473]       con_gameMsgWindow2MsgTime "5"
+[      3473]       con_gameMsgWindow2ScrollTime "0.25"
+[      3473]       con_gameMsgWindow2SplitscreenScale "1.5"
+[      3473]       con_gameMsgWindow3FadeInTime "0.25"
+[      3473]       con_gameMsgWindow3FadeOutTime "0.5"
+[      3473]       con_gameMsgWindow3Filter ""
+[      3473]       con_gameMsgWindow3LineCount "5"
+[      3473]       con_gameMsgWindow3MsgTime "5"
+[      3473]       con_gameMsgWindow3ScrollTime "0.25"
+[      3473]       con_gameMsgWindow3SplitscreenScale "1.5"
+[      3473]       con_inputBoxColor "0.2 0.2 0.2 1"
+[      3473]       con_inputHintBoxColor "0.3 0.3 0.3 1"
+[      3473]       con_matchPrefixOnly "1"
+[      3473]       con_minicon "0"
+[      3473]       con_miniconlines "1"
+[      3473]       con_minicontime "9999"
+[      3473]       con_outputBarColor "0.5 0.5 0.5 0.6"
+[      3473]       con_outputSliderColor "0.7 1 0 1"
+[      3473]       con_outputWindowColor "0.25 0.25 0.25 0.85"
+[      3473]       con_typewriterColorBase "1 1 1"
+[      3473]       con_typewriterColorGlowCheckpoint "0.6 0.5 0.6 1"
+[      3473]       con_typewriterColorGlowCompleted "0 0.3 0.8 1"
+[      3473]       con_typewriterColorGlowFailed "0.8 0 0 1"
+[      3473]       con_typewriterColorGlowUpdated "0 0.6 0.18 1"
+[      3473]       con_typewriterDecayDuration "700"
+[      3473]       con_typewriterDecayStartTime "6000"
+[      3473]       con_typewriterPrintSpeed "50"
+[      3473]       cpu_speed_12players "3"
+[      3473]       cpu_speed_18players "6"
+[      3473]       cpu_speed_8players "2.7"
+[      3473]       customTitle "^;PietSmiet"
+[      3473]       debugOverlay "Off"
+[      3473]       developer "0"
+[      3473]       developer_script "0"
+[      3473]       drawEntityCount "0"
+[      3473]       drawEntityCountPos "-55 -180"
+[      3473]       drawEntityCountSize "32"
+[      3473]       drawKillcamData "0"
+[      3473]       drawKillcamDataPos "-55 -340"
+[      3473]       drawKillcamDataSize "32"
+[      3473]       drawLagometer "0"
+[      3473]       drawServerBandwidth "0"
+[      3473]       drawServerBandwidthPos "-55 -340"
+[      3473]       dynEnt_active "1"
+[      3473]       dynEnt_bulletForce "1000"
+[      3473]       dynEnt_damageScale "1"
+[      3473]       dynEnt_explodeForce "12500"
+[      3473]       dynEnt_explodeMaxEnts "20"
+[      3473]       dynEnt_explodeMinForce "40"
+[      3473]       dynEnt_explodeSpinScale "3"
+[      3473]       dynEnt_explodeUpbias "0.5"
+[      3473]       dynEnt_explodingBulletForce "3500"
+[      3473]       dynEnt_explodingBulletMaxEnts "5"
+[      3473]       dynEnt_explodingBulletMinForce "5"
+[      3473]       dynEnt_explodingBulletSpinScale "1"
+[      3473]       dynEnt_explodingBulletUpbias "0.5"
+[      3473]       fixedtime "0"
+[      3473]       FoFIconMaxSize "640"
+[      3473]       FoFIconMinSize "30"
+[      3473]       FoFIconScale "1.3"
+[      3473]       FoFIconSpawnTimeDelay "1"
+[      3473]       FoFIconSpawnTimeFade "5"
+[      3473]       friction "5.5"
+[      3473]       fs_basegame "iw4x"
+[      3473]       fs_basepath "G:\Steam\steamapps\common\Call of Duty Modern Warfare 2"
+[      3473]       fs_cdpath "G:\Steam\steamapps\common\Call of Duty Modern Warfare 2"
+[      3473]       fs_copyfiles "0"
+[      3473]       fs_debug "0"
+[      3473]       fs_game ""
+[      3473]       fs_homepath "G:\Steam\steamapps\common\Call of Duty Modern Warfare 2"
+[      3473]       fs_ignoreLocalized "0"
+[      3473]       fx_count "0"
+[      3473]       fx_cull_elem_draw "1"
+[      3473]       fx_cull_elem_spawn "1"
+[      3473]       fx_debugBolt "0"
+[      3473]       fx_draw "1"
+[      3473]       fx_drawClouds "1"
+[      3473]       fx_enable "1"
+[      3473]       fx_freeze "0"
+[      3473]       fx_mark_profile "0"
+[      3473]       fx_marks "1"
+[      3473]       fx_marks_ents "1"
+[      3473]       fx_marks_smodels "1"
+[      3473]       fx_profile "0"
+[      3473]       fx_profileFilter ""
+[      3473]       fx_profileSkip "0"
+[      3473]       fx_profileSort "cost"
+[      3473]       fx_visMinTraceDist "80"
+[      3473]       g_allowvote "0"
+[      3473]       g_antilag "1"
+[      3473]       g_banIPs ""
+[      3473]       g_clonePlayerMaxVelocity "80"
+[      3473]       g_ColorBlind_EnemyTeam "0.658824 0.0862745 0.145098 1"
+[      3473]       g_ColorBlind_MyTeam "1 0.858824 0.12549 1"
+[      3473]       g_deadChat "1"
+[      3473]       g_dropForwardSpeed "10"
+[      3473]       g_dropHorzSpeedRand "100"
+[      3473]       g_dropUpSpeedBase "10"
+[      3473]       g_dropUpSpeedRand "5"
+[      3473]       g_firstLaunch "0"
+[      3473]       g_gametype "war"
+[      3473]       g_gravity "800"
+[      3473]       g_hardcore "0"
+[      3473]       g_inactivitySpectator "0"
+[      3473]       g_loadingInitialZones "1"
+[      3473]       g_log "logs/games_mp.log"
+[      3473]       g_logSync "1"
+[      3473]       g_oldVoting "1"
+[      3473]       g_playerCollisionEjectSpeed "25"
+[      3473]       g_radiusDamageMax "256"
+[      3473]       g_redCrosshairs "1"
+[      3473]       g_synchronousClients "0"
+[      3473]       g_voiceChatTalkingDuration "500"
+[      3473]       g_voteAbstainWeight "0.5"
+[      3473]       gameMode "mp"
+[      3473]       glass_angular_vel "5 35"
+[      3473]       glass_break "1"
+[      3473]       glass_debug "0"
+[      3473]       glass_edge_angle "5 10"
+[      3473]       glass_fall_delay "0.2 0.9"
+[      3473]       glass_fall_gravity "800"
+[      3473]       glass_fall_ratio "1.5 3"
+[      3473]       glass_fringe_maxcoverage "0.2"
+[      3473]       glass_fringe_maxsize "150"
+[      3473]       glass_fx_chance "0.25"
+[      3473]       glass_hinge_friction "50"
+[      3473]       glass_linear_vel "200 400"
+[      3473]       glass_max_pieces_per_frame "100"
+[      3473]       glass_max_shatter_fx_per_frame "6"
+[      3473]       glass_physics_chance "0.15"
+[      3473]       glass_physics_maxdist "512"
+[      3473]       glass_shard_maxsize "300"
+[      3474]       glass_shattered_scale "48"
+[      3474]       glass_trace_interval "100"
+[      3474]       gpad_button_deadzone "0.13"
+[      3474]       gpad_button_lstick_deflect_max "1"
+[      3474]       gpad_button_rstick_deflect_max "1"
+[      3474]       gpad_buttonConfig "buttons_default"
+[      3474]       gpad_buttonsConfig "buttons_default"
+[      3474]       gpad_debug "0"
+[      3474]       gpad_enabled "1"
+[      3474]       gpad_in_use "0"
+[      3474]       gpad_lockon_enabled "1"
+[      3474]       gpad_menu_scroll_delay_first "420"
+[      3474]       gpad_menu_scroll_delay_rest "210"
+[      3474]       gpad_present "0"
+[      3474]       gpad_rumble "1"
+[      3474]       gpad_slowdown_enabled "1"
+[      3474]       gpad_stick_deadzone_max "0.01"
+[      3474]       gpad_stick_deadzone_min "0.2"
+[      3474]       gpad_stick_pressed "0.4"
+[      3474]       gpad_stick_pressed_hysteresis "0.1"
+[      3474]       gpad_sticksConfig "thumbstick_default"
+[      3474]       gpad_style "0"
+[      3474]       gpad_use_hold_time "250"
+[      3474]       heli_barrelMaxVelocity "1250"
+[      3474]       heli_barrelRotation "70"
+[      3474]       heli_barrelSlowdown "360"
+[      3474]       hiDef "1"
+[      3474]       hud_bloodOverlayLerpRate "0.3"
+[      3474]       hud_deathQuoteFadeTime "1000"
+[      3474]       hud_enable "1"
+[      3474]       hud_fade_ammodisplay "0"
+[      3474]       hud_fade_compass "0"
+[      3474]       hud_fade_healthbar "2"
+[      3474]       hud_fade_offhand "0"
+[      3474]       hud_fade_sprint "1.7"
+[      3474]       hud_fade_stance "1.7"
+[      3474]       hud_fadeout_speed "0.1"
+[      3474]       hud_flash_period_offhand "0.5"
+[      3474]       hud_flash_time_offhand "2"
+[      3474]       hud_health_pulserate_critical "0.5"
+[      3474]       hud_health_pulserate_injured "1"
+[      3474]       hud_health_startpulse_critical "0.33"
+[      3474]       hud_health_startpulse_injured "1"
+[      3474]       hudElemPausedBrightness "0.4"
+[      3474]       in_mouse "1"
+[      3474]       input_invertPitch "0"
+[      3474]       input_viewSensitivity "1"
+[      3474]       intro "0"
+[      3474]       iw4x_fail2ban_location "/var/log/iw4x.log"
+[      3474]       iw4x_onelog "0"
+[      3474]       iwnet_debug "0"
+[      3474]       iwnet_maxResendTime "120"
+[      3474]       iwnet_minResendTime "4"
+[      3474]       iwnet_searching "1"
+[      3474]       iwnet_sessionFullHeartbeat "20000"
+[      3474]       iwnet_sessionHeartbeat "5000"
+[      3474]       iwnet_sessions "1"
+[      3474]       iwnet_xuid "1906"
+[      3474]       jump_height "39"
+[      3474]       jump_ladderPushVel "128"
+[      3474]       jump_slowdownEnable "1"
+[      3474]       jump_spreadAdd "64"
+[      3474]       jump_stepSize "18"
+[      3474]       koth_autodestroytime "60"
+[      3474]       koth_capturetime "20"
+[      3474]       koth_delayPlayer "0"
+[      3474]       koth_destroytime "10"
+[      3474]       koth_extraDelay "0"
+[      3474]       koth_kothmode "0"
+[      3474]       koth_proMode "0"
+[      3474]       koth_spawnDelay "60"
+[      3474]       koth_spawntime "30"
+[      3474]       laserDebug "0"
+[      3474]       laserEndOffset "0.5"
+[      3474]       laserFlarePct "0.2"
+[      3474]       laserFlarePct_alt "0"
+[      3474]       laserForceOn "0"
+[      3474]       laserLight "0"
+[      3474]       laserLightBeginOffset "13"
+[      3474]       laserLightBodyTweak "15"
+[      3474]       laserLightEndOffset "-3"
+[      3474]       laserLightRadius "3"
+[      3474]       laserLightRadius_alt "100"
+[      3474]       laserLightWithoutNightvision "0"
+[      3474]       laserRadius "0.8"
+[      3474]       laserRadius_alt "30"
+[      3474]       laserRange "1500"
+[      3474]       laserRange_alt "5000"
+[      3474]       laserRangePlayer "1500"
+[      3474]       loading_sre_fatal "1"
+[      3474]       lobby_partySearchWaitTime "1000"
+[      3474]       loc_forceEnglish "0"
+[      3474]       loc_language "2"
+[      3474]       loc_translate "1"
+[      3474]       loc_warnings "0"
+[      3474]       loc_warningsAsErrors "0"
+[      3474]       loc_warningsUI "0"
+[      3474]       logfile "1"
+[      3474]       lowAmmoWarningColor1 "0.701961 0.701961 0.701961 0.8"
+[      3474]       lowAmmoWarningColor2 "1 1 1 1"
+[      3474]       lowAmmoWarningNoAmmoColor1 "0.8 0.25098 0.301961 0.8"
+[      3474]       lowAmmoWarningNoAmmoColor2 "1 0.25098 0.301961 1"
+[      3474]       lowAmmoWarningNoReloadColor1 "0.701961 0.701961 0.301961 0.701961"
+[      3474]       lowAmmoWarningNoReloadColor2 "0.701961 0.701961 0.301961 1"
+[      3474]       lowAmmoWarningPulseFreq "2.3"
+[      3474]       lowAmmoWarningPulseMax "1.5"
+[      3474]       lowAmmoWarningPulseMin "0"
+[      3474]       lsp_debug "0"
+[      3474]       m_filter "0"
+[      3474]       m_forward "0.25"
+[      3474]       m_pitch "0.022"
+[      3474]       m_rawinput "1"
+[      3474]       m_side "0.25"
+[      3474]       m_yaw "0.022"
+[      3474]       mantle_check_angle "60"
+[      3474]       mantle_check_radius "0.1"
+[      3474]       mantle_check_range "20"
+[      3474]       mantle_debug "0"
+[      3474]       mantle_enable "1"
+[      3474]       mantle_max_vertical_end_velocity "0"
+[      3474]       mantle_view_yawcap "60"
+[      3474]       mapcrc "0"
+[      3474]       mapname ""
+[      3474]       masterPort "20810"
+[      3474]       masterServerName "server.alterware.dev"
+[      3474]       matchmaking_debug "1"
+[      3474]       maxVoicePacketsPerSec "100"
+[      3474]       maxVoicePacketsPerSecForServer "20"
+[      3474]       migration_blocksperframe "0"
+[      3474]       migration_dvarErrors "0"
+[      3474]       migration_limit "5"
+[      3474]       migration_msgtimeout "500"
+[      3474]       migration_timeBetween "30000"
+[      3474]       migration_verboseBroadcastTime "100"
+[      3474]       migrationPingTime "10"
+[      3474]       missileRemoteFOV "15"
+[      3474]       missileRemoteSteerPitchRange "1 87"
+[      3474]       missileRemoteSteerPitchRate "35"
+[      3474]       missileRemoteSteerYawRate "35"
+[      3474]       mod_force_download_server "0"
+[      3474]       monkeytoy "1"
+[      3474]       motd "Willkommen im Mehrspieler-Modus von Modern Warfare 2"
+[      3474]       motionTrackerBlurDuration "0.2"
+[      3474]       motionTrackerCenterX "0"
+[      3474]       motionTrackerCenterY "-0.37"
+[      3474]       motionTrackerPingFadeTime "3"
+[      3474]       motionTrackerPingPitchAddPerEnemy "0"
+[      3474]       motionTrackerPingPitchBase "1"
+[      3474]       motionTrackerPingPitchNearby "2"
+[      3474]       motionTrackerPingSize "0.2"
+[      3474]       motionTrackerRange "1600"
+[      3474]       motionTrackerSweepAngle "90"
+[      3474]       motionTrackerSweepInterval "3"
+[      3474]       motionTrackerSweepSpeed "2000"
+[      3474]       mp_paused "0"
+[      3474]       msg_dumpEnts "0"
+[      3474]       msg_hudelemspew "0"
+[      3474]       msg_printEntityNums "0"
+[      3474]       name "^4Blu^:scream"
+[      3474]       net_discoveryPortRangeMax "35000"
+[      3474]       net_discoveryPortRangeMin "25000"
+[      3474]       net_ip "localhost"
+[      3474]       net_lanauthorize "0"
+[      3474]       net_natFix "0"
+[      3474]       net_noipx "0"
+[      3474]       net_noudp "0"
+[      3474]       net_port "28960"
+[      3474]       net_profile "0"
+[      3474]       net_serverFrames "30"
+[      3474]       net_serverQueryLimit "1"
+[      3474]       net_showprofile "0"
+[      3474]       net_socksEnabled "0"
+[      3474]       net_socksPassword ""
+[      3474]       net_socksPort "1080"
+[      3474]       net_socksServer ""
+[      3474]       net_socksUsername ""
+[      3474]       nextdemo ""
+[      3474]       nextmap ""
+[      3474]       nightVisionDisableEffects "0"
+[      3474]       nightVisionFadeInOutTime "0.1"
+[      3474]       nightVisionPowerOnTime "0.3"
+[      3474]       objectiveFadeTimeGoingOff "0.5"
+[      3474]       objectiveFadeTimeGoingOn "1"
+[      3474]       objectiveFadeTimeWaitOff "2"
+[      3474]       objectiveFadeTimeWaitOn "2"
+[      3474]       objectiveFadeTooClose "0.1"
+[      3474]       objectiveFadeTooFar "25"
+[      3474]       objectiveFontSize "0.6"
+[      3474]       objectiveHide "0"
+[      3474]       objectiveTextOffsetY "-5.33"
+[      3474]       onlinegame "1"
+[      3474]       onlinegameandhost "0"
+[      3474]       onlineunrankedgameandhost "0"
+[      3474]       overrideNVGModelWithKnife "0"
+[      3474]       packetDebug "0"
+[      3474]       painReverbDryLevel "0.5"
+[      3474]       painReverbRoomType "underwater"
+[      3474]       painReverbWetLevel "0.4"
+[      3474]       painVisionLerpOutRate "0.3"
+[      3474]       painVisionTriggerHealth "0.55"
+[      3474]       party_autoteams "1"
+[      3474]       party_connectTimeout "1000"
+[      3474]       party_connectToOthers "1"
+[      3474]       party_currentSearchTier "2"
+[      3474]       party_debug "0"
+[      3474]       party_defaultSearchTier "2"
+[      3474]       party_editingsettings "0"
+[      3474]       party_enable "0"
+[      3474]       party_firstSubpartyIndex "0"
+[      3474]       party_gamesize ""
+[      3474]       party_gameStartTimerLength "10"
+[      3474]       party_gametype ""
+[      3474]       party_host "0"
+[      3474]       party_hostmigration "0"
+[      3474]       party_hostname ""
+[      3474]       party_IAmSelected "0"
+[      3474]       party_kickplayerquestion ""
+[      3474]       party_listFocus "0"
+[      3474]       party_lobbyPlayerCount ""
+[      3474]       party_mapname ""
+[      3474]       party_mappacks ""
+[      3474]       party_matchedPlayerCount "4"
+[      3474]       party_maxplayers "16"
+[      3474]       party_maxPrivatePartyPlayers "18"
+[      3474]       party_maxSearchTier "6"
+[      3474]       party_maxTeamDiff "1"
+[      3474]       party_membersMissingMapPack "0"
+[      3474]       party_minLobbyTime "60"
+[      3474]       party_minplayers "2"
+[      3474]       party_msPerTier "50"
+[      3474]       party_partyPlayerCount ""
+[      3474]       party_playervisible "0"
+[      3474]       party_pregameStartTimerLength "5"
+[      3474]       party_searchPauseTime "2000"
+[      3474]       party_searchRandomDelay "500"
+[      3474]       party_searchResultsLifetime "45000"
+[      3474]       party_searchResultsMin "2000"
+[      3474]       party_selectedIndex "0"
+[      3474]       party_selectedIndexChangedTime "0"
+[      3474]       party_statusString ""
+[      3474]       party_teambased "1"
+[      3474]       party_teamsVisible "0"
+[      3474]       party_timer "0"
+[      3474]       party_vetoButtonVisible "0"
+[      3474]       party_vetoDelayTime "4"
+[      3474]       party_vetoPassed "0"
+[      3474]       party_vetoPercentRequired "0.501"
+[      3474]       party_vetoStatus ""
+[      3474]       partymigrate_broadcast_interval "200"
+[      3474]       partymigrate_cpuBonusPing "25"
+[      3474]       partymigrate_cpuBonusThreshold "0.5"
+[      3474]       partymigrate_pingtest_retry "100"
+[      3474]       partymigrate_pingtest_timeout "600"
+[      3474]       partymigrate_selectiontime "1800"
+[      3474]       partymigrate_timeout "8000"
+[      3474]       partymigrate_timeoutmax "15000"
+[      3474]       password ""
+[      3474]       perk_armorPiercingDamage "40"
+[      3474]       perk_blastShield "65"
+[      3474]       perk_bulletPenetrationMultiplier "2"
+[      3474]       perk_diveDistanceCheck "64"
+[      3474]       perk_diveGravityScale "0.75"
+[      3474]       perk_diveVelocity "250"
+[      3474]       perk_diveViewRollResetSpeed "4"
+[      3474]       perk_diveViewRollSpeed "0.5"
+[      3474]       perk_diveViewRollTarget "45"
+[      3474]       perk_extendedMagsMGAmmo "10"
+[      3474]       perk_extendedMagsPistolAmmo "5"
+[      3474]       perk_extendedMagsRifleAmmo "10"
+[      3474]       perk_extendedMagsSMGAmmo "10"
+[      3474]       perk_extendedMagsSpreadAmmo "5"
+[      3474]       perk_extendedMeleeRange "176"
+[      3474]       perk_extraBreath "5"
+[      3474]       perk_fastSnipeScale "2"
+[      3474]       perk_footstepVolumeAlly "0.25"
+[      3474]       perk_footstepVolumeEnemy "4"
+[      3474]       perk_footstepVolumePlayer "0.25"
+[      3474]       perk_grenadeDeath "frag_grenade_short_mp"
+[      3474]       perk_improvedExtraBreath "5"
+[      3474]       perk_lightWeightViewBobScale "0.75"
+[      3474]       perk_parabolicAngle "180"
+[      3474]       perk_parabolicIcon "specialty_parabolic"
+[      3474]       perk_parabolicRadius "400"
+[      3474]       perk_quickDrawSpeedScale "1.5"
+[      3474]       perk_scavengerMode "0"
+[      3474]       perk_sprintMultiplier "2"
+[      3474]       perk_sprintRecoveryMultiplierActual "0.6"
+[      3474]       perk_sprintRecoveryMultiplierVisual "0.6"
+[      3474]       perk_weapRateMultiplier "0.75"
+[      3474]       perk_weapReloadMultiplier "0.5"
+[      3474]       perk_weapSpreadMultiplier "0.65"
+[      3474]       phys_autoDisableAngular "57"
+[      3474]       phys_autoDisableFastAngular "270"
+[      3474]       phys_autoDisableFastLinear "40"
+[      3474]       phys_autoDisableFastTime "0.5"
+[      3474]       phys_autoDisableLinear "20"
+[      3474]       phys_autoDisableTime "0.9"
+[      3474]       phys_bulletSpinScale "3"
+[      3474]       phys_bulletUpBias "0.5"
+[      3474]       phys_cfm "0.0001"
+[      3474]       phys_collUseEntities "0"
+[      3474]       phys_contact_cfm "1e-005"
+[      3474]       phys_contact_cfm_ragdoll "0.001"
+[      3474]       phys_contact_cfm_vehicle "0.001"
+[      3474]       phys_contact_cfm_vehicleSoft "0.05"
+[      3474]       phys_contact_erp "0.8"
+[      3474]       phys_contact_erp_ragdoll "0.3"
+[      3474]       phys_contact_erp_vehicle "0.5"
+[      3474]       phys_contact_erp_vehicleSoft "0.05"
+[      3474]       phys_csl "0.3"
+[      3474]       phys_dragAngular "0.5"
+[      3474]       phys_dragLinear "0.03"
+[      3474]       phys_drawAwake "0"
+[      3474]       phys_drawCollisionObj "0"
+[      3474]       phys_drawCollisionWorld "0"
+[      3474]       phys_drawcontacts "0"
+[      3474]       phys_drawDebugInfo "0"
+[      3474]       phys_dumpcontacts "0"
+[      3474]       phys_erp "0.8"
+[      3474]       phys_frictionScale "1"
+[      3474]       phys_gravity "-800"
+[      3474]       phys_gravity_ragdoll "-800"
+[      3474]       phys_gravityChangeWakeupRadius "120"
+[      3474]       phys_jitterMaxMass "200"
+[      3474]       phys_joint_cfm "0.0001"
+[      3474]       phys_joint_stop_cfm "0.0001"
+[      3474]       phys_joint_stop_erp "0.8"
+[      3474]       phys_jointPullThreshold "4"
+[      3474]       phys_mcv "20"
+[      3474]       phys_mcv_ragdoll "1000"
+[      3474]       phys_mcv_vehicle "300"
+[      3474]       phys_minImpactMomentum "250"
+[      3474]       phys_narrowObjMaxLength "4"
+[      3474]       phys_noIslands "0"
+[      3474]       phys_qsi "15"
+[      3474]       phys_reorderConst "1"
+[      3474]       physVeh_collideWithClipOnly "0"
+[      3474]       physVeh_explodeForce "800"
+[      3474]       physVeh_explodeSpinScale "3"
+[      3474]       physVeh_jump "0"
+[      3474]       physVeh_minImpactMomentum "17.6"
+[      3474]       physVeh_pathConstraintCfm "1e-006"
+[      3474]       physVeh_pathConstraintErp "0.8"
+[      3474]       physVeh_slideReductionForHighSpeed "0"
+[      3474]       physVeh_StepsPerFrame "3"
+[      3474]       player_adsExitDelay "0"
+[      3474]       player_backSpeedScale "0.7"
+[      3474]       player_breath_fire_delay "0"
+[      3474]       player_breath_gasp_lerp "6"
+[      3474]       player_breath_gasp_scale "4.5"
+[      3474]       player_breath_gasp_time "1"
+[      3474]       player_breath_hold_lerp "1"
+[      3474]       player_breath_hold_time "4.5"
+[      3474]       player_breath_snd_delay "1"
+[      3474]       player_breath_snd_lerp "2"
+[      3474]       player_burstFireCooldown "0.2"
+[      3474]       player_debugHealth "0"
+[      3474]       player_dmgtimer_flinchTime "500"
+[      3474]       player_dmgtimer_maxTime "750"
+[      3474]       player_dmgtimer_minScale "0"
+[      3474]       player_dmgtimer_stumbleTime "500"
+[      3474]       player_dmgtimer_timePerPoint "100"
+[      3474]       player_duckedSpeedScale "0.65"
+[      3474]       player_footstepsThreshhold "0"
+[      3474]       player_lastStandCrawlSpeedScale "0.2"
+[      3474]       player_lastStandDebug "0"
+[      3474]       player_lean_rotate_crouch_left "0.8"
+[      3474]       player_lean_rotate_crouch_right "0.3"
+[      3474]       player_lean_rotate_left "0.8"
+[      3474]       player_lean_rotate_right "0.4"
+[      3474]       player_lean_shift_crouch_left "4"
+[      3474]       player_lean_shift_crouch_right "15"
+[      3474]       player_lean_shift_left "5"
+[      3474]       player_lean_shift_right "9"
+[      3474]       player_meleeHeight "10"
+[      3474]       player_meleeRange "64"
+[      3474]       player_meleeWidth "10"
+[      3474]       player_move_factor_on_torso "0"
+[      3474]       player_moveThreshhold "10"
+[      3474]       player_proneSpeedScale "0.15"
+[      3474]       player_runThreshhold "110"
+[      3474]       player_scopeExitOnDamage "0"
+[      3474]       player_spectateSpeedScale "1"
+[      3474]       player_sprintCameraBob "0.5"
+[      3474]       player_sprintForwardMinimum "105"
+[      3474]       player_sprintMinTime "1"
+[      3474]       player_sprintRechargePause "0"
+[      3474]       player_sprintSpeedScale "1.5"
+[      3474]       player_sprintStrafeSpeedScale "0.667"
+[      3474]       player_sprintTime "4"
+[      3474]       player_sprintUnlimited "0"
+[      3474]       player_strafeAnimCosAngle "0.5"
+[      3474]       player_strafeSpeedScale "0.8"
+[      3474]       player_sustainAmmo "0"
+[      3474]       player_turnAnims "0"
+[      3474]       player_view_pitch_down "85"
+[      3474]       player_view_pitch_up "85"
+[      3474]       playlist "0"
+[      3474]       playlistFilename "playlists_default.info"
+[      3474]       privateMatch_joinPassword ""
+[      3474]       privateMatch_serverPassword ""
+[      3474]       protocol "151"
+[      3474]       r_aaAlpha "dither (fast)"
+[      3474]       r_aaMaxQuality "0"
+[      3474]       r_aaSamples "4"
+[      3474]       r_altModelLightingUpdate "1"
+[      3474]       r_aspectRatio "auto"
+[      3474]       r_atlasAnimFPS "15"
+[      3474]       r_autopriority "0"
+[      3474]       r_blacklevel "0"
+[      3474]       r_blur "0"
+[      3474]       r_brightness "0"
+[      3474]       r_cacheModelLighting "1"
+[      3474]       r_cacheSModelLighting "1"
+[      3474]       r_clear "never"
+[      3474]       r_clearColor "0 0 0 0"
+[      3474]       r_clearColor2 "0 0 0 0"
+[      3474]       r_colorBlind "0"
+[      3474]       r_colorMap "Unchanged"
+[      3474]       r_contrast "1"
+[      3474]       r_customAspectRatio "1.77778"
+[      3474]       r_customMode ""
+[      3474]       r_debugLineWidth "1"
+[      3474]       r_debugShader "none"
+[      3474]       r_depthPrepass "None"
+[      3474]       r_desaturation "1"
+[      3474]       r_detail "1"
+[      3474]       r_detailMap "Unchanged"
+[      3474]       r_diffuseColorScale "1"
+[      3474]       r_displayRefresh "60 Hz"
+[      3474]       r_distortion "1"
+[      3474]       r_dlightLimit "4"
+[      3474]       r_dof_bias "0.5"
+[      3474]       r_dof_enable "1"
+[      3474]       r_dof_farBlur "1.8"
+[      3474]       r_dof_farEnd "7000"
+[      3474]       r_dof_farStart "1000"
+[      3474]       r_dof_nearBlur "6"
+[      3474]       r_dof_nearEnd "60"
+[      3474]       r_dof_nearStart "10"
+[      3474]       r_dof_tweak "0"
+[      3474]       r_dof_viewModelEnd "8"
+[      3474]       r_dof_viewModelStart "2"
+[      3474]       r_dpvsFilterDebug "0"
+[      3474]       r_drawAabbTrees "0"
+[      3474]       r_drawClipmap "0"
+[      3474]       r_drawDebugDistance "1000"
+[      3474]       r_drawDecals "1"
+[      3474]       r_drawLights "0"
+[      3474]       r_drawModelBoundingBoxes "Disabled"
+[      3474]       r_drawModelNames "Disabled"
+[      3474]       r_drawRunners "0"
+[      3474]       r_drawSceneModelCollisions "0"
+[      3474]       r_drawSun "1"
+[      3474]       r_drawTriggers "0"
+[      3474]       r_drawWater "1"
+[      3474]       r_envMapExponent "5"
+[      3474]       r_envMapMaxIntensity "0.5"
+[      3474]       r_envMapMinIntensity "0.2"
+[      3474]       r_envMapOverride "0"
+[      3474]       r_envMapSunIntensity "2"
+[      3474]       r_fastSkin "0"
+[      3474]       r_filmAltShader "1"
+[      3474]       r_filmTweakBrightness "0"
+[      3474]       r_filmTweakContrast "1.4"
+[      3474]       r_filmTweakDarkTint "0.7 0.85 1"
+[      3474]       r_filmTweakDesaturation "0.2"
+[      3474]       r_filmTweakDesaturationDark "0.2"
+[      3474]       r_filmTweakEnable "0"
+[      3474]       r_filmTweakInvert "0"
+[      3474]       r_filmTweakLightTint "1.1 1.05 0.85"
+[      3475]       r_filmTweakMediumTint "0.9 1 0.9"
+[      3475]       r_filmUseTweaks "0"
+[      3475]       r_floatz "1"
+[      3475]       r_fog "1"
+[      3475]       r_forceLod "none"
+[      3475]       r_forceTechnique "0"
+[      3475]       r_fullbright "0"
+[      3475]       r_fullscreen "1"
+[      3475]       r_gamma "0.8"
+[      3475]       r_glow "1"
+[      3475]       r_glow_allowed "1"
+[      3475]       r_glow_allowed_script_forced "0"
+[      3475]       r_glowTweakBloomCutoff "0.5"
+[      3475]       r_glowTweakBloomDesaturation "0"
+[      3475]       r_glowTweakBloomIntensity0 "1"
+[      3475]       r_glowTweakEnable "0"
+[      3475]       r_glowTweakRadius0 "5"
+[      3475]       r_glowUseTweaks "0"
+[      3475]       r_gpuSync "off"
+[      3475]       r_heroLighting "1"
+[      3475]       r_highLodDist "-1"
+[      3475]       r_ignore "0"
+[      3475]       r_ignorehwgamma "0"
+[      3475]       r_inGameVideo "1"
+[      3475]       r_lightCacheLessFrequentMaxDistance "64"
+[      3475]       r_lightCacheLessFrequentPeriod "10"
+[      3475]       r_lightGridContrast "0"
+[      3475]       r_lightGridEnableTweaks "0"
+[      3475]       r_lightGridIntensity "1"
+[      3475]       r_lightGridUseTweakedValues "1"
+[      3475]       r_lightMap "Unchanged"
+[      3475]       r_listSamplers "0"
+[      3475]       r_loadForRenderer "1"
+[      3475]       r_lockPvs "0"
+[      3475]       r_lodBiasRigid "0"
+[      3475]       r_lodBiasSkinned "0"
+[      3475]       r_lodScaleRigid "4"
+[      3475]       r_lodScaleSkinned "1"
+[      3475]       r_lowestLodDist "-1"
+[      3475]       r_lowLodDist "-1"
+[      3475]       r_mediumLodDist "-1"
+[      3475]       r_mode "1920x1080"
+[      3475]       r_modelVertColor "1"
+[      3475]       r_monitor "0"
+[      3475]       r_multiGpu "0"
+[      3475]       r_noborder "0"
+[      3475]       r_normal "1"
+[      3475]       r_normalMap "Unchanged"
+[      3475]       r_noVoid "0"
+[      3475]       r_outdoor "1"
+[      3475]       r_outdoorFeather "8"
+[      3475]       r_picmip "0"
+[      3475]       r_picmip_bump "0"
+[      3475]       r_picmip_manual "1"
+[      3475]       r_picmip_spec "0"
+[      3475]       r_picmip_water "0"
+[      3475]       r_polygonOffsetBias "-1"
+[      3475]       r_polygonOffsetScale "-1"
+[      3475]       r_portalBevels "0.7"
+[      3475]       r_portalBevelsOnly "0"
+[      3475]       r_portalMinClipArea "0.02"
+[      3475]       r_portalMinRecurseDepth "2"
+[      3475]       r_portalWalkLimit "0"
+[      3475]       r_preloadShaders "0"
+[      3475]       r_pretess "1"
+[      3475]       r_primaryLightTweakDiffuseStrength "1"
+[      3475]       r_primaryLightTweakSpecularStrength "1"
+[      3475]       r_primaryLightUseTweaks "0"
+[      3475]       r_reflectionProbeGenerate "0"
+[      3475]       r_reflectionProbeGenerateExit "0"
+[      3475]       r_reflectionProbeRegenerateAll "0"
+[      3475]       r_rendererInUse "Shader model 3.0"
+[      3475]       r_rendererPreference "Default"
+[      3475]       r_resampleScene "1"
+[      3475]       r_scaleViewport "1"
+[      3475]       r_showFbColorDebug "None"
+[      3475]       r_showFloatZDebug "0"
+[      3475]       r_showLightGrid "0"
+[      3475]       r_showMissingLightGrid "0"
+[      3475]       r_showPortals "0"
+[      3475]       r_showPortalsOverview "0"
+[      3475]       r_singleCell "0"
+[      3475]       r_skipPvs "0"
+[      3475]       r_smc_enable "1"
+[      3475]       r_smc_optimize "1"
+[      3475]       r_smp_backend "1"
+[      3475]       r_smp_worker "1"
+[      3475]       r_smp_worker_thread0 "1"
+[      3475]       r_smp_worker_thread1 "1"
+[      3475]       r_specular "1"
+[      3475]       r_specularColorScale "2.5"
+[      3475]       r_specularCustomMaps "0"
+[      3475]       r_specularMap "Unchanged"
+[      3475]       r_spotLightBrightness "14"
+[      3475]       r_spotLightEndRadius "196"
+[      3475]       r_spotLightEntityShadows "1"
+[      3475]       r_spotLightExponent "2"
+[      3475]       r_spotLightFovInnerFraction "0.5"
+[      3475]       r_spotLightMaxLength "5000"
+[      3475]       r_spotLightShadows "1"
+[      3475]       r_spotLightSModelShadows "1"
+[      3475]       r_spotLightStartRadius "36"
+[      3475]       r_sse_skinning "1"
+[      3475]       r_subwindow "0 1 0 1"
+[      3475]       r_sun_from_dvars "0"
+[      3475]       r_sun_fx_position "0 0 0"
+[      3475]       r_sunblind_fadein "0.5"
+[      3475]       r_sunblind_fadeout "3"
+[      3475]       r_sunblind_max_angle "5"
+[      3475]       r_sunblind_max_darken "0.75"
+[      3475]       r_sunblind_min_angle "30"
+[      3475]       r_sunflare_fadein "1"
+[      3475]       r_sunflare_fadeout "1"
+[      3475]       r_sunflare_max_alpha "1"
+[      3475]       r_sunflare_max_angle "2"
+[      3475]       r_sunflare_max_size "2500"
+[      3475]       r_sunflare_min_angle "45"
+[      3475]       r_sunflare_min_size "0"
+[      3475]       r_sunflare_shader "sun_flare"
+[      3475]       r_sunglare_fadein "0.5"
+[      3475]       r_sunglare_fadeout "3"
+[      3475]       r_sunglare_max_angle "5"
+[      3475]       r_sunglare_max_lighten "0.75"
+[      3475]       r_sunglare_min_angle "30"
+[      3475]       r_sunsprite_shader "sun"
+[      3475]       r_sunsprite_size "16"
+[      3475]       r_texFilterAnisoMax "4"
+[      3475]       r_texFilterAnisoMin "1"
+[      3475]       r_texFilterDisable "0"
+[      3475]       r_texFilterMipBias "0"
+[      3475]       r_texFilterMipMode "Unchanged"
+[      3475]       r_useD3D9Ex "1"
+[      3475]       r_useLayeredMaterials "0"
+[      3475]       r_vc_makelog "0"
+[      3475]       r_vc_showlog "0"
+[      3475]       r_vsync "0"
+[      3475]       r_warningRepeatDelay "5"
+[      3475]       r_zfar "0"
+[      3475]       r_zFeather "1"
+[      3475]       r_znear "4"
+[      3475]       r_znear_depthhack "0.1"
+[      3475]       radarjamDistMax "800"
+[      3475]       radarjamDistMin "350"
+[      3475]       radarjamSinCurve "0"
+[      3475]       ragdoll_baselerp_time "1000"
+[      3475]       ragdoll_bullet_force "500"
+[      3475]       ragdoll_bullet_upbias "0.5"
+[      3475]       ragdoll_debug "0"
+[      3475]       ragdoll_dump_anims "0"
+[      3475]       ragdoll_enable "1"
+[      3475]       ragdoll_explode_force "18000"
+[      3475]       ragdoll_explode_upbias "0.8"
+[      3475]       ragdoll_exploding_bullet_force "5000"
+[      3475]       ragdoll_exploding_bullet_upbias "0.8"
+[      3475]       ragdoll_fps "20"
+[      3475]       ragdoll_idle_min_velsq "2"
+[      3475]       ragdoll_jitter_scale "1"
+[      3475]       ragdoll_jointlerp_time "3000"
+[      3475]       ragdoll_max_life "4500"
+[      3475]       ragdoll_max_simulating "16"
+[      3475]       ragdoll_max_stretch_pct "10"
+[      3475]       ragdoll_rotvel_scale "1"
+[      3475]       ragdoll_self_collision_scale "1.2"
+[      3475]       ragdoll_stretch_iters "10"
+[      3475]       rate "25000"
+[      3475]       rcon_password "uhjxv8t2mua7w"
+[      3475]       reliableResendTime "300"
+[      3475]       reliableTimeoutTime "20000"
+[      3475]       RemoteCameraSounds_DryLevel "0.1"
+[      3475]       RemoteCameraSounds_RoomType "underwater"
+[      3475]       RemoteCameraSounds_WetLevel "0.5"
+[      3475]       requireOpenNat "1"
+[      3475]       safeArea_adjusted_horizontal "1"
+[      3475]       safeArea_adjusted_vertical "1"
+[      3475]       safeArea_horizontal "0.85"
+[      3475]       safeArea_vertical "0.85"
+[      3475]       scr_airdrop_ac130 "3"
+[      3475]       scr_airdrop_ammo "17"
+[      3475]       scr_airdrop_counter_uav "15"
+[      3475]       scr_airdrop_emp "2"
+[      3475]       scr_airdrop_harrier_airstrike "7"
+[      3475]       scr_airdrop_helicopter "7"
+[      3475]       scr_airdrop_helicopter_flares "5"
+[      3475]       scr_airdrop_helicopter_minigun "3"
+[      3475]       scr_airdrop_mega_ac130 "2"
+[      3475]       scr_airdrop_mega_ammo "12"
+[      3475]       scr_airdrop_mega_counter_uav "16"
+[      3475]       scr_airdrop_mega_emp "2"
+[      3475]       scr_airdrop_mega_harrier_airstrike "5"
+[      3475]       scr_airdrop_mega_helicopter "5"
+[      3475]       scr_airdrop_mega_helicopter_flares "3"
+[      3475]       scr_airdrop_mega_helicopter_minigun "2"
+[      3475]       scr_airdrop_mega_nuke "1"
+[      3475]       scr_airdrop_mega_precision_airstrike "10"
+[      3475]       scr_airdrop_mega_predator_missile "14"
+[      3475]       scr_airdrop_mega_sentry "16"
+[      3475]       scr_airdrop_mega_stealth_airstrike "3"
+[      3475]       scr_airdrop_mega_uav "12"
+[      3475]       scr_airdrop_nuke "1"
+[      3475]       scr_airdrop_precision_airstrike "11"
+[      3475]       scr_airdrop_predator_missile "12"
+[      3475]       scr_airdrop_sentry "12"
+[      3475]       scr_airdrop_stealth_airstrike "5"
+[      3475]       scr_airdrop_uav "17"
+[      3475]       scr_allow_classchange "1"
+[      3475]       scr_arena_numlives "1"
+[      3475]       scr_arena_promode "0"
+[      3475]       scr_arena_roundlimit "0"
+[      3475]       scr_arena_roundswitch "3"
+[      3475]       scr_arena_scorelimit "1"
+[      3475]       scr_arena_timelimit "2.5"
+[      3475]       scr_arena_winlimit "4"
+[      3475]       scr_classic "0"
+[      3475]       scr_commands_enable "1"
+[      3475]       scr_commands_prefix "#"
+[      3475]       scr_commands_set_client_dvars_chat "1"
+[      3475]       scr_ctf_halftime "1"
+[      3475]       scr_ctf_numlives "0"
+[      3475]       scr_ctf_playerrespawndelay "0"
+[      3475]       scr_ctf_promode "0"
+[      3475]       scr_ctf_returntime "30"
+[      3475]       scr_ctf_roundlimit "1"
+[      3475]       scr_ctf_scorelimit "0"
+[      3475]       scr_ctf_timelimit "10"
+[      3475]       scr_ctf_waverespawndelay "10"
+[      3475]       scr_ctf_winlimit "1"
+[      3475]       scr_dd_addtime "2.5"
+[      3475]       scr_dd_bombtimer "45"
+[      3475]       scr_dd_defusetime "5"
+[      3475]       scr_dd_numlives "0"
+[      3475]       scr_dd_planttime "5"
+[      3475]       scr_dd_playerrespawndelay "0"
+[      3475]       scr_dd_promode "0"
+[      3475]       scr_dd_roundlimit "3"
+[      3475]       scr_dd_roundswitch "1"
+[      3475]       scr_dd_scorelimit "1"
+[      3475]       scr_dd_timelimit "2.5"
+[      3475]       scr_dd_waverespawndelay "0"
+[      3475]       scr_dd_winlimit "2"
+[      3475]       scr_death_drop_weapon "1"
+[      3475]       scr_diehard "0"
+[      3475]       scr_dm_numlives "0"
+[      3475]       scr_dm_playerrespawndelay "0"
+[      3475]       scr_dm_promode "0"
+[      3475]       scr_dm_roundlimit "1"
+[      3475]       scr_dm_scorelimit "1500"
+[      3475]       scr_dm_timelimit "10"
+[      3475]       scr_dm_waverespawndelay "0"
+[      3475]       scr_dm_winlimit "1"
+[      3475]       scr_dom_numlives "0"
+[      3475]       scr_dom_playerrespawndelay "0"
+[      3475]       scr_dom_promode "0"
+[      3475]       scr_dom_roundlimit "1"
+[      3475]       scr_dom_scorelimit "200"
+[      3475]       scr_dom_timelimit "0"
+[      3475]       scr_dom_waverespawndelay "0"
+[      3475]       scr_dom_winlimit "1"
+[      3475]       scr_emp_duration "90"
+[      3475]       scr_explBulletMod "1"
+[      3475]       scr_fix_forceuav "1"
+[      3475]       scr_game_allowkillcam "1"
+[      3475]       scr_game_deathpointloss "0"
+[      3475]       scr_game_end_slowmo_effect "1"
+[      3475]       scr_game_forceuav "0"
+[      3475]       scr_game_graceperiod "0"
+[      3475]       scr_game_hardpoints "1"
+[      3475]       scr_game_killstreakdelay "8"
+[      3475]       scr_game_objectiveStreaks "1"
+[      3475]       scr_game_onlyheadshots "0"
+[      3475]       scr_game_perks "1"
+[      3475]       scr_game_spectatetype "1"
+[      3475]       scr_game_suicidepointloss "0"
+[      3475]       scr_gtnw_numlives "0"
+[      3475]       scr_gtnw_playerrespawndelay "0"
+[      3475]       scr_gtnw_promode "0"
+[      3475]       scr_gtnw_roundlimit "1"
+[      3475]       scr_gtnw_roundswitch "0"
+[      3475]       scr_gtnw_scorelimit "101"
+[      3475]       scr_gtnw_timelimit "10"
+[      3475]       scr_gtnw_waverespawndelay "0"
+[      3475]       scr_gtnw_winlimit "1"
+[      3475]       scr_hardcore "0"
+[      3475]       scr_hardpoint_allowartillery "1"
+[      3475]       scr_hardpoint_allowhelicopter "1"
+[      3475]       scr_hardpoint_allowuav "1"
+[      3475]       scr_helicopter_apache_duration "30"
+[      3475]       scr_helicopter_cobra_duration "50"
+[      3475]       scr_incendiary_replace_offhand "smoke_grenade_mp"
+[      3475]       scr_infected_allow_allies_attachments "1"
+[      3475]       scr_infected_allow_allies_equipment "1"
+[      3475]       scr_infected_allow_allies_specialist "1"
+[      3475]       scr_infected_allow_allies_starting_perks "1"
+[      3475]       scr_infected_allow_inf_ti "1"
+[      3475]       scr_infected_allow_inf_tk "1"
+[      3475]       scr_infected_pick_time "15"
+[      3475]       scr_intermissionTime "10"
+[      3475]       scr_koth_numlives "0"
+[      3475]       scr_koth_playerrespawndelay "0"
+[      3475]       scr_koth_promode "0"
+[      3475]       scr_koth_roundlimit "1"
+[      3475]       scr_koth_roundswitch "1"
+[      3475]       scr_koth_scorelimit "250"
+[      3475]       scr_koth_timelimit "15"
+[      3475]       scr_koth_waverespawndelay "0"
+[      3475]       scr_koth_winlimit "1"
+[      3475]       scr_maxPerPlayerExplosives "2"
+[      3475]       scr_message_join "^9{NAME}^9 joined"
+[      3475]       scr_message_leave "^9{NAME}^9 left"
+[      3475]       scr_message_welcome "^;Welcum to {HOSTNAME}^7"
+[      3475]       scr_nextmap_randomize "1"
+[      3475]       scr_nuke_active_vehicles "1"
+[      3475]       scr_nuke_aftermath_duration "30"
+[      3475]       scr_nuke_clasic_mode "1"
+[      3475]       scr_nuke_emp_duration "30"
+[      3475]       scr_nuke_is_moab "1"
+[      3475]       scr_nuke_Kills_all "1"
+[      3475]       scr_nukeCancelMode "2"
+[      3475]       scr_nukeTimer "60"
+[      3475]       scr_oldschool "0"
+[      3475]       scr_oneflag_numlives "0"
+[      3475]       scr_oneflag_playerrespawndelay "0"
+[      3475]       scr_oneflag_promode "0"
+[      3475]       scr_oneflag_roundlimit "0"
+[      3475]       scr_oneflag_roundswitch "3"
+[      3475]       scr_oneflag_scorelimit "1"
+[      3475]       scr_oneflag_timelimit "3"
+[      3475]       scr_oneflag_waverespawndelay "0"
+[      3475]       scr_oneflag_winlimit "4"
+[      3475]       scr_patientZero ""
+[      3475]       scr_permissions "e9fd6b28ed56c05c 100"
+[      3475]       scr_player_forcerespawn "1"
+[      3475]       scr_player_healthregentime "5"
+[      3475]       scr_player_maxhealth "100"
+[      3475]       scr_player_numlives "0"
+[      3475]       scr_player_respawndelay "0"
+[      3475]       scr_player_sprinttime "4"
+[      3475]       scr_player_suicidespawndelay "0"
+[      3475]       scr_RequiredMapAspectratio "1"
+[      3475]       scr_restxp_cap "0.5"
+[      3475]       scr_restxp_enable "0"
+[      3475]       scr_restxp_levelsPerDay "0.5"
+[      3475]       scr_restxp_minRestTime "4"
+[      3475]       scr_restxp_restedAwardScale "0.5"
+[      3475]       scr_restxp_timescale "1"
+[      3475]       scr_riotShieldXPBullets "15"
+[      3475]       scr_sab_bombtimer "30"
+[      3475]       scr_sab_defusetime "5"
+[      3475]       scr_sab_hotpotato "0"
+[      3475]       scr_sab_numlives "0"
+[      3475]       scr_sab_planttime "2.5"
+[      3475]       scr_sab_playerrespawndelay "7.5"
+[      3475]       scr_sab_promode "0"
+[      3475]       scr_sab_roundlimit "1"
+[      3475]       scr_sab_roundswitch "1"
+[      3475]       scr_sab_scorelimit "0"
+[      3475]       scr_sab_timelimit "20"
+[      3475]       scr_sab_waverespawndelay "0"
+[      3475]       scr_sab_winlimit "1"
+[      3475]       scr_scoreboard_reshows_perks "1"
+[      3475]       scr_sd_bombtimer "45"
+[      3475]       scr_sd_defusetime "5"
+[      3475]       scr_sd_multibomb "0"
+[      3475]       scr_sd_numlives "1"
+[      3475]       scr_sd_planttime "5"
+[      3475]       scr_sd_playerrespawndelay "0"
+[      3475]       scr_sd_promode "0"
+[      3475]       scr_sd_roundlimit "0"
+[      3475]       scr_sd_roundswitch "3"
+[      3475]       scr_sd_scorelimit "1"
+[      3475]       scr_sd_timelimit "2.5"
+[      3475]       scr_sd_waverespawndelay "0"
+[      3475]       scr_sd_winlimit "4"
+[      3475]       scr_spawn_open_eyes_effect "1"
+[      3475]       scr_tdef_numlives "0"
+[      3475]       scr_tdef_playerrespawndelay "0"
+[      3475]       scr_tdef_promode "0"
+[      3475]       scr_tdef_roundlimit "1"
+[      3475]       scr_tdef_scorelimit "7500"
+[      3475]       scr_tdef_timelimit "10"
+[      3475]       scr_tdef_waverespawndelay "0"
+[      3475]       scr_tdef_winlimit "1"
+[      3475]       scr_team_fftype "0"
+[      3475]       scr_team_kickteamkillers "0"
+[      3475]       scr_team_respawntime "0"
+[      3475]       scr_team_teamkillpointloss "1"
+[      3475]       scr_team_teamkillspawndelay "20"
+[      3475]       scr_teambalance "1"
+[      3475]       scr_thirdPerson "0"
+[      3475]       scr_tispawndelay "0"
+[      3475]       scr_uav_forceon "0"
+[      3475]       scr_vip_numlives "0"
+[      3475]       scr_vip_promode "0"
+[      3475]       scr_vip_roundlimit "3"
+[      3475]       scr_vip_roundswitch "1"
+[      3475]       scr_vip_scorelimit "1"
+[      3475]       scr_vip_timelimit "2.5"
+[      3475]       scr_vip_winlimit "2"
+[      3475]       scr_war_numlives "0"
+[      3475]       scr_war_playerrespawndelay "0"
+[      3475]       scr_war_promode "0"
+[      3475]       scr_war_roundlimit "1"
+[      3475]       scr_war_scorelimit "7500"
+[      3475]       scr_war_timelimit "10"
+[      3475]       scr_war_waverespawndelay "0"
+[      3475]       scr_war_winlimit "1"
+[      3475]       scr_xpscale "1"
+[      3475]       sensitivity "3.24286"
+[      3475]       sentry_placement_debug "0"
+[      3475]       sentry_placement_feet_offset "17 20 10"
+[      3475]       sentry_placement_feet_trace_dist_z "20"
+[      3475]       sentry_placement_trace_dist "42"
+[      3475]       sentry_placement_trace_min_normal "0.7"
+[      3475]       sentry_placement_trace_pitch "20"
+[      3475]       sentry_placement_trace_radius "30"
+[      3475]       sentry_placement_trace_radius_canon_safety "5"
+[      3475]       server1 ""
+[      3475]       server10 ""
+[      3475]       server11 ""
+[      3475]       server12 ""
+[      3475]       server13 ""
+[      3475]       server14 ""
+[      3475]       server15 ""
+[      3475]       server16 ""
+[      3475]       server2 ""
+[      3475]       server3 ""
+[      3475]       server4 ""
+[      3475]       server5 ""
+[      3475]       server6 ""
+[      3475]       server7 ""
+[      3475]       server8 ""
+[      3475]       server9 ""
+[      3475]       session_immediateDeleteTinySessions "0"
+[      3475]       session_nonblocking "1"
+[      3475]       shieldImpactBulletShakeDuration "500"
+[      3475]       shieldImpactBulletShakeScale "0.35"
+[      3475]       shieldImpactExplosionHighShakeDuration "1250"
+[      3475]       shieldImpactExplosionHighShakeScale "0.5"
+[      3475]       shieldImpactExplosionLowShakeDuration "800"
+[      3475]       shieldImpactExplosionLowShakeScale "0.4"
+[      3475]       shieldImpactExplosionThreshold "85"
+[      3475]       shieldImpactMissileShakeDuration "1500"
+[      3475]       shieldImpactMissileShakeScale "0.5"
+[      3475]       shortversion "r4500"
+[      3475]       showdrop "0"
+[      3475]       showpackets "0"
+[      3475]       sm_enable "1"
+[      3475]       sm_fastSunShadow "1"
+[      3475]       sm_lightScore_eyeProjectDist "64"
+[      3475]       sm_lightScore_spotProjectFrac "0.125"
+[      3475]       sm_maxLights "4"
+[      3475]       sm_minSpotLightScore "0.5"
+[      3475]       sm_polygonOffsetBias "0.125"
+[      3475]       sm_polygonOffsetScale "2"
+[      3475]       sm_qualitySpotShadow "1"
+[      3475]       sm_spotDistCull "1"
+[      3475]       sm_spotEnable "1"
+[      3475]       sm_spotLimit "4"
+[      3475]       sm_spotShadowFadeTime "1"
+[      3475]       sm_strictCull "1"
+[      3475]       sm_sunEnable "1"
+[      3475]       sm_sunSampleSizeNear "0.25"
+[      3475]       sm_sunShadowCenter "0 0 0"
+[      3475]       sm_sunShadowScale "1"
+[      3475]       sm_sunShadowScaleLocked "1"
+[      3475]       snaps "20"
+[      3475]       snd_cinematicVolumeScale "0.5"
+[      3475]       snd_draw3D "Off"
+[      3475]       snd_drawInfo "None"
+[      3475]       snd_enable2D "1"
+[      3475]       snd_enable3D "1"
+[      3475]       snd_enableEq "1"
+[      3475]       snd_enableReverb "1"
+[      3475]       snd_enableStream "1"
+[      3475]       snd_errorOnMissing "0"
+[      3475]       snd_khz "44"
+[      3475]       snd_levelFadeTime "250"
+[      3475]       snd_outputConfiguration "Windows default"
+[      3475]       snd_slaveFadeTime "500"
+[      3475]       snd_touchStreamFilesOnLoad "0"
+[      3475]       snd_volume "0.349206"
+[      3475]       splitscreen "0"
+[      3475]       stat_version "10"
+[      3475]       stopspeed "100"
+[      3475]       sv_allowAimAssist "1"
+[      3475]       sv_allowAnonymous "0"
+[      3475]       sv_allowClientConsole "1"
+[      3475]       sv_allowColoredNames "1"
+[      3475]       sv_allowDownload "1"
+[      3475]       sv_allowedClan1 ""
+[      3475]       sv_allowedClan2 ""
+[      3475]       sv_cheats "0"
+[      3475]       sv_clientArchive "1"
+[      3475]       sv_clientSideBullets "1"
+[      3475]       sv_connectTimeout "120"
+[      3475]       sv_customTextColor "1 0.701961 0 1"
+[      3475]       sv_debugRate "0"
+[      3475]       sv_debugReliableCmds "0"
+[      3475]       sv_disableChat "0"
+[      3475]       sv_dontRotate "0"
+[      3475]       sv_floodProtect "0"
+[      3475]       sv_gametypes "dm,war,sd,sab,dom,koth,ctf,dd,vip,gtnw,oneflag,arena"
+[      3475]       sv_hostname "IW4Host"
+[      3475]       sv_hugeSnapshotDelay "200"
+[      3475]       sv_hugeSnapshotSize "4000"
+[      3475]       sv_iw4madmin_integration_enabled "1"
+[      3475]       sv_iwdNames ""
+[      3475]       sv_iwds ""
+[      3475]       sv_kickBanTime "300"
+[      3475]       sv_mapRotation ""
+[      3475]       sv_mapRotationCurrent ""
+[      3475]       sv_maxclients "18"
+[      3475]       sv_maxPing "300"
+[      3475]       sv_maxRate "25000"
+[      3475]       sv_minPing "1"
+[      3475]       sv_motd "Get maps from tinyurl.com/iw4xmaps"
+[      3475]       sv_network_fps "1000"
+[      3475]       sv_nextMap ""
+[      3475]       sv_packet_info "0"
+[      3475]       sv_padPackets "0"
+[      3475]       sv_paused "0"
+[      3475]       sv_privateClients "0"
+[      3475]       sv_privateClientsForClients "0"
+[      3475]       sv_privatePassword ""
+[      3475]       sv_pure "0"
+[      3475]       sv_randomBotNames "0"
+[      3475]       sv_randomMapRotation "1"
+[      3475]       sv_reconnectlimit "5"
+[      3475]       sv_referencedFFCheckSums ""
+[      3475]       sv_referencedFFNames ""
+[      3475]       sv_referencedIwdNames ""
+[      3475]       sv_referencedIwds ""
+[      3475]       sv_rejoinTimeout "5"
+[      3475]       sv_replaceBots "0"
+[      3475]       sv_running "0"
+[      3475]       sv_sayName "^7Console"
+[      3475]       sv_securityLevel "23"
+[      3475]       sv_showAverageBPS "0"
+[      3475]       sv_timeout "20"
+[      3475]       sv_voice "0"
+[      3475]       sv_voiceQuality "3"
+[      3475]       sv_wwwBaseUrl ""
+[      3475]       sv_wwwDownload "0"
+[      3475]       sv_zombietime "2"
+[      3475]       sys_configSum "209012943"
+[      3475]       sys_configureGHz "26.8828"
+[      3475]       sys_cpuGHz "2.904"
+[      3475]       sys_cpuName "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz"
+[      3475]       sys_gpu "NVIDIA GeForce GTX 1050 Ti"
+[      3475]       sys_lockThreads "none"
+[      3475]       sys_quitMigrateTime "15000"
+[      3475]       sys_smp_allowed "1"
+[      3475]       sys_SSE "1"
+[      3475]       sys_sysMB "2048"
+[      3475]       systemlink "0"
+[      3475]       testClients_doAttack "1"
+[      3475]       testClients_doCrouch "0"
+[      3475]       testClients_doMove "1"
+[      3475]       testClients_doReload "1"
+[      3475]       testClients_watchKillcam "1"
+[      3475]       thermal_playerModel ""
+[      3475]       thermalBlurFactorNoScope "250"
+[      3475]       thermalBlurFactorScope "250"
+[      3475]       timescale "1"
+[      3475]       tracer_debugDraw "0"
+[      3475]       tracer_explosiveColor1 "1 0.75 0.75 0"
+[      3475]       tracer_explosiveColor2 "1 0.75 0.75 1"
+[      3475]       tracer_explosiveColor3 "1 0.75 0.75 1"
+[      3475]       tracer_explosiveColor4 "1 0.75 0.75 1"
+[      3475]       tracer_explosiveColor5 "1 0.75 0.75 1"
+[      3475]       tracer_explosiveColor6 "1 0.75 0.75 0"
+[      3475]       tracer_explosiveOverride "1"
+[      3475]       tracer_explosiveWidth "15"
+[      3475]       tracer_firstPersonMaxWidth "4"
+[      3475]       tracer_stoppingPowerColor1 "0 0 0 0"
+[      3475]       tracer_stoppingPowerColor2 "1 1 1 1"
+[      3475]       tracer_stoppingPowerColor3 "1 0 0 1"
+[      3475]       tracer_stoppingPowerColor4 "1 0 0 1"
+[      3475]       tracer_stoppingPowerColor5 "1 1 0 1"
+[      3475]       tracer_stoppingPowerColor6 "1 1 1 1"
+[      3475]       tracer_stoppingPowerOverride "0"
+[      3475]       tracer_stoppingPowerWidth "6"
+[      3475]       tracer_thermalWidthMult "2"
+[      3475]       turret_adsEnabled "1"
+[      3475]       turret_adsFov "35"
+[      3475]       turret_adsTime "250"
+[      3475]       turret_fov "55"
+[      3475]       ui_allow_controlschange "1"
+[      3475]       ui_bigFont "0.688"
+[      3475]       ui_borderLowLightScale "0.35"
+[      3475]       ui_browserFriendlyfire "-1"
+[      3475]       ui_browserKillcam "-1"
+[      3475]       ui_browserMod "-1"
+[      3475]       ui_browserShowDedicated "0"
+[      3475]       ui_browserShowEmpty "1"
+[      3475]       ui_browserShowFull "0"
+[      3475]       ui_browserShowPassword "0"
+[      3475]       ui_browserShowPunkBuster "-1"
+[      3475]       ui_browserShowPure "1"
+[      3475]       ui_bypass "1"
+[      3475]       ui_currentFeederMapIndex "0"
+[      3475]       ui_currentMap "0"
+[      3475]       ui_dl_progress ""
+[      3475]       ui_dl_timeLeft ""
+[      3475]       ui_dl_transRate ""
+[      3475]       ui_drawCrosshair "1"
+[      3475]       ui_extraBigFont "1"
+[      3475]       ui_gametype "war"
+[      3475]       ui_hud_hardcore "0"
+[      3475]       ui_hud_obituaries "1"
+[      3475]       ui_hud_showobjicons "1"
+[      3475]       ui_joinGametype "0"
+[      3475]       ui_localize "1"
+[      3475]       ui_map_desc ""
+[      3475]       ui_map_long ""
+[      3475]       ui_map_name ""
+[      3475]       ui_mapname "mp_afghan"
+[      3475]       ui_mousePitch "0"
+[      3475]       ui_nativeCursor "0"
+[      3475]       ui_netGametype "4"
+[      3475]       ui_netGametypeName "war"
+[      3475]       ui_netSource "1"
+[      3475]       ui_serverSelected "0"
+[      3475]       ui_serverSelectedMap "mp_afghan"
+[      3475]       ui_serverStatusTimeOut "7000"
+[      3475]       ui_showmap "1"
+[      3475]       ui_smallFont "0.563"
+[      3475]       ui_startupMessage ""
+[      3475]       ui_startupMessageTitle ""
+[      3475]       ui_startupNextButtonText ""
+[      3475]       ui_streamFriendly "0"
+[      3475]       ui_zoneDebug "0"
+[      3475]       upnp_maxAttempts "4"
+[      3475]       useFastFile "1"
+[      3475]       useMapPreloading "1"
+[      3475]       useonlinestats "0"
+[      3475]       useRelativeTeamColors "0"
+[      3475]       useSvMapPreloading "1"
+[      3475]       useTagFlashSilenced "1"
+[      3475]       veh_boneControllerLodDist "2000"
+[      3475]       vehAudio_inAirPitchDownLerp "1.2"
+[      3475]       vehAudio_inAirPitchUpLerp "0.75"
+[      3475]       vehAudio_spawnVolumeTime "2"
+[      3475]       vehCam_angles "0 0 0"
+[      3475]       vehCam_editMode "0"
+[      3475]       vehCam_freeLook "0"
+[      3475]       vehCam_offset "0 0 0"
+[      3475]       vehCam_pitchClamp "45"
+[      3475]       vehCam_pitchTurnRate "90"
+[      3475]       vehCam_radius "0"
+[      3475]       vehCam_speedInfluence "0"
+[      3475]       vehCam_yawClamp "45"
+[      3475]       vehCam_yawTurnRate "260"
+[      3475]       vehCam_zOffsetMode "World"
+[      3475]       version "IW4x MP (Beta) build r4500-develop latest Feb 19 2024 21:18:43 win-x86"
+[      3475]       vid_xpos "0"
+[      3475]       vid_ypos "0"
+[      3475]       viewModelDebugNotetracks "0"
+[      3475]       viewModelHacks "1"
+[      3475]       viewposNow "0 0 0"
+[      3475]       voiceChat "1"
+[      3475]       voiceDebug "0"
+[      3475]       voiceDegrade "0"
+[      3475]       waypointDebugDraw "0"
+[      3475]       waypointDistScaleRangeMax "3000"
+[      3475]       waypointDistScaleRangeMin "1000"
+[      3475]       waypointDistScaleSmallest "0.8"
+[      3475]       waypointIconHeight "36"
+[      3475]       waypointIconWidth "36"
+[      3475]       waypointOffscreenCornerRadius "105"
+[      3475]       waypointOffscreenDistanceThresholdAlpha "30"
+[      3475]       waypointOffscreenPadBottom "30"
+[      3475]       waypointOffscreenPadLeft "103"
+[      3475]       waypointOffscreenPadRight "0"
+[      3475]       waypointOffscreenPadTop "0"
+[      3475]       waypointOffscreenPointerDistance "20"
+[      3475]       waypointOffscreenPointerHeight "12"
+[      3475]       waypointOffscreenPointerWidth "25"
+[      3475]       waypointOffscreenRoundedCorners "1"
+[      3475]       waypointOffscreenScaleLength "500"
+[      3475]       waypointOffscreenScaleSmallest "1"
+[      3475]       waypointPlayerOffsetCrouch "56"
+[      3475]       waypointPlayerOffsetProne "30"
+[      3475]       waypointPlayerOffsetStand "66"
+[      3475]       waypointSplitscreenScale "1.8"
+[      3475]       waypointTweakY "-17"
+[      3475]       wideScreen "1"
+[      3475]       winvoice_loopback "0"
+[      3475]       winvoice_mic_mute "1"
+[      3475]       winvoice_mic_reclevel "65535"
+[      3475]       winvoice_mic_scaler "1"
+[      3475]       winvoice_save_voice "0"
+[      3475]       xblive_hostingprivateparty "0"
+[      3475]       xblive_loggedin "0"
+[      3475]       xblive_playEvenIfDown "0"
+[      3475]       xblive_privatematch "1"
+[      3475]       xblive_privatepartyclient "0"
+[      3475]       xblive_privateserver "0"
+[      3475]       xblive_rankedmatch "0"
+[      3475] 
+1929 total dvars
+1929 dvar indexes
+[      3475] =============================== END DVAR DUMP =====================================
+[     11071] Waited 6694 msec for asset 'FONT_ICON_HINT_AUTO_COMPLETE' of type 'localize'.
+[     11134] Huffman Took 1 Milliseconds
+[     11137] Working directory: G:\Steam\steamapps\common\Call of Duty Modern Warfare 2
+[     11144] Using profile source local (l:0 c:1)
+[     11209] Calling Party_StopParty() for partyId 0
+[     11209] Not uploading stats: stats not fetched (cont 0)
+[     11215] Clearing migration data
+[     11218] Clearing migration data
+[     11223] Calling Party_StopParty() for partyId 1
+[     11232] Clearing migration data
+[     11238] Clearing migration data
+[     11242] Error: Could not load techset "mc_l_hsm_r0c0n0s0_custom_objective_sat.5x".
+[     11262] Discord: Ready
+[     11286] Successfully read stats data
+[     11630] Getting bots...
+[     11633] Parsing 311 nodes from nodes.json
+[     11668] Got 164 names from the master server
+[     14707] execing debug.cfg from disk
+[     14710] invalid variable name: init_testclients 
+[     20361] CL_Disconnect called for local client 0
+[     20362] Not uploading stats: no statWriteNeeded (cont 0)
+[     20365] ----- R_Init -----
+[     20403] Video memory for device: 3072 MB.
+[     20406] Rounded video memory size: 2048 MB.
+[     20409] Available DirectX texture memory: 4095 MB.
+[     20411] DirectX reports 2048 MB of video memory and 4095 MB of available texture memory.
+[     20413] Using video memory size to cap used texture memory at 2032 MB.
+[     20415] Using previously reported texture memory size of 2032 MB.
+[     20417] Using reported available texture memory: 2032 MB.
+[     20420] Picmip is set manually.
+[     20422] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[     20968] LiveStorage_EndGame called when not in a game. Probably just signed out.
+[     20971] Loading fastfile so_killspree_invasion_load
+[     20971] WARNING: Could not find zone 'so_killspree_invasion_load'
+[     20982] Error: Could not load techset "mc_l_hsm_r0c0n0s0_custom_objective_sat.5x".
+[     21022] CL_Disconnect called for local client 0
+[     21023] Not uploading stats: no statWriteNeeded (cont 0)
+[     21079] ------ Server Initialization ------
+[     21083] Server: so_killspree_invasion
+[     21120] Unloaded fastfile iw4x_localized_english
+[     22077] Current language: german
+[     22082] Current search path:
+[     22087] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_spectatorkick.iwd (2 files)
+[     22090] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_showhp.iwd (2 files)
+[     22093] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_fpsboost.iwd (3 files)
+[     22097] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots_localisation_de.iwd (4 files)
+[     22102] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots_localisation.iwd (7 files)
+[     22106] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_svr_bots.iwd (184 files)
+[     22109] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_killstreaks_remastered.iwd (14 files)
+[     22111] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_iw4x_gsc.iwd (76 files)
+[     22114] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_srv_iw4madmin.iwd (11 files)
+[     22117] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_sp_maps_images.iwd (134 files)
+[     22119] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_sp_maps_fix.iwd (433 files)
+[     22121] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_mapvote.iwd (315 files)
+[     22123] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_LoadScreen.iwd (53 files)
+[     22126] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\userraw\z_fix_scripterrors.iwd (6 files)
+[     22128] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/userraw
+[     22131] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_05.iwd (4325 files)
+[     22133] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_04.iwd (853 files)
+[     22136] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_03.iwd (742 files)
+[     22138] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_02.iwd (1 files)
+[     22140] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_01.iwd (137 files)
+[     22142] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\iw4x\iw4x_00.iwd (916 files)
+[     22146] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/iw4x
+[     22148] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc9_00.iwd (939 files)
+[     22151] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc8_00.iwd (2070 files)
+[     22153] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc7_00.iwd (829 files)
+[     22155] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc6_00.iwd (711 files)
+[     22157] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc5_01.iwd (196 files)
+[     22159] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc5_00.iwd (1986 files)
+[     22162] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc4_01.iwd (274 files)
+[     22164] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc4_00.iwd (1186 files)
+[     22167] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc3_00.iwd (1350 files)
+[     22169] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_dlc10_00.iwd (6505 files)
+[     22171] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_23.iwd (425 files)
+[     22173] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_22.iwd (430 files)
+[     22176] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_21.iwd (46 files)
+[     22184] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_20.iwd (86 files)
+[     22186] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_19.iwd (57 files)
+[     22188] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_18.iwd (61 files)
+[     22199] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_17.iwd (125 files)
+[     22209] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_16.iwd (171 files)
+[     22221] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_15.iwd (198 files)
+[     22233] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_14.iwd (406 files)
+[     22244] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_13.iwd (63 files)
+[     22258] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_12.iwd (31 files)
+[     22269] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_11.iwd (297 files)
+[     22279] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_10.iwd (556 files)
+[     22289] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_09.iwd (716 files)
+[     22301] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_08.iwd (886 files)
+[     22312] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_07.iwd (782 files)
+[     22314] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_06.iwd (481 files)
+[     22325] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_05.iwd (952 files)
+[     22336] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_04.iwd (1005 files)
+[     22348] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_03.iwd (1437 files)
+[     22358] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_02.iwd (1391 files)
+[     22369] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_01.iwd (1272 files)
+[     22380] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\iw_00.iwd (1428 files)
+[     22382] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/main
+[     22393] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/main_shared
+[     22405] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/players
+[     22415] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/raw
+[     22426] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/raw_shared
+[     22437] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/devraw
+[     22439] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2/devraw_shared
+[     22450] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw08.iwd (909 files)
+[     22462]     localized assets iwd file for german
+[     22472] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw07.iwd (1423 files)
+[     22474]     localized assets iwd file for german
+[     22485] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw06.iwd (1306 files)
+[     22496]     localized assets iwd file for german
+[     22510] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw05.iwd (1937 files)
+[     22522]     localized assets iwd file for german
+[     22525] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw04.iwd (2487 files)
+[     22527]     localized assets iwd file for german
+[     22541] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw03.iwd (2382 files)
+[     22544]     localized assets iwd file for german
+[     22555] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw02.iwd (2080 files)
+[     22566]     localized assets iwd file for german
+[     22577] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw01.iwd (2472 files)
+[     22588]     localized assets iwd file for german
+[     22599] G:\Steam\steamapps\common\Call of Duty Modern Warfare 2\main\localized_german_iw00.iwd (2480 files)
+[     22609]     localized assets iwd file for german
+[     22613] 
+File Handles:
+[     22615] handle 1: logs/console_mp.log
+[     22618] ----------------------
+[     22629] 110084 files in iwd files
+[     22639] ----- R_Init -----
+[     22671] Video memory for device: 3072 MB.
+[     22682] Rounded video memory size: 2048 MB.
+[     22684] Available DirectX texture memory: 4095 MB.
+[     22697] DirectX reports 2048 MB of video memory and 4095 MB of available texture memory.
+[     22712] Using video memory size to cap used texture memory at 2032 MB.
+[     22723] Using previously reported texture memory size of 2032 MB.
+[     22726] Using reported available texture memory: 2032 MB.
+[     22742] Picmip is set manually.
+[     22745] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[     22848] Error: Could not load techset "mc_l_hsm_r0c0n0s0_custom_objective_sat.5x".
+[     22895] Unloaded fastfile iw4x_ui_mp
+[     22898] Unloaded fastfile ui_mp
+[     22911] Unloaded fastfile localized_ui_mp
+[     22915] Loading fastfile so_killspree_invasion
+[     23029] Loading fastfile invasion
+[     23031] Loading fastfile iw4x_team_us_army
+[     23034] Loading fastfile iw4x_team_opforce_composite
+[     23047] Loading fastfile iw4x_localized_english
+[     31724] Waited 8669 msec for asset 'maps/invasion.d3dbsp' of type 'col_map_mp'.
+[     31737] ------- Game Initialization -------
+[     31739] gamename: IW4
+[     31751] gamedate: Feb 19 2024
+[     31753] Waiting for database...
+[     31757] ----------------------
+[     31768] Game: G_SetupWeaponDef
+[     31773] ----------------------
+[     31796] Loading script spectatorkick.gsc...
+[     32084] Script scripts/spectatorkick.gsc loaded successfully.
+[     32085] Loading script showhp.gsc...
+[     32097] Script scripts/showhp.gsc loaded successfully.
+[     32100] Loading script fpsbooster.gsc...
+[     32112] Script scripts/fpsbooster.gsc loaded successfully.
+[     32115] Loading script classchange.gsc...
+[     32126] Script scripts/classchange.gsc loaded successfully.
+[     32129] Loading script commands.gsc...
+[     32153] Script scripts/commands.gsc loaded successfully.
+[     32156] Loading script dev_tools.gsc...
+[     32168] Script scripts/dev_tools.gsc loaded successfully.
+[     32170] Loading script discord.gsc...
+[     32182] Script scripts/discord.gsc loaded successfully.
+[     32184] Loading script eyecandy.gsc...
+[     32196] Script scripts/eyecandy.gsc loaded successfully.
+[     32199] Loading script forceuav.gsc...
+[     32210] Script scripts/forceuav.gsc loaded successfully.
+[     32213] Loading script incendiary.gsc...
+[     32225] Script scripts/incendiary.gsc loaded successfully.
+[     32236] Loading script infinite_ammo.gsc...
+[     32240] Script scripts/infinite_ammo.gsc loaded successfully.
+[     32252] Loading script killstreaks.gsc...
+[     32264] Script scripts/killstreaks.gsc loaded successfully.
+[     32266] Loading script limit_offhands.gsc...
+[     32280] Script scripts/limit_offhands.gsc loaded successfully.
+[     32291] Loading script messages.gsc...
+[     32294] Script scripts/messages.gsc loaded successfully.
+[     32305] Loading script nextmap.gsc...
+[     32318] Script scripts/nextmap.gsc loaded successfully.
+[     32329] Loading script perk_display.gsc...
+[     32340] Script scripts/perk_display.gsc loaded successfully.
+[     32352] Loading script randomizer.gsc...
+[     32365] Script scripts/randomizer.gsc loaded successfully.
+[     32377] Loading script weapon_drops.gsc...
+[     32388] Script scripts/weapon_drops.gsc loaded successfully.
+[     32400] Loading script _date.gsc...
+[     32411] Script scripts/_date.gsc loaded successfully.
+[     32423] Loading script _items.gsc...
+[     32434] Script scripts/_items.gsc loaded successfully.
+[     32447] Loading script _items_plugins.gsc...
+[     32459] Script scripts/_items_plugins.gsc loaded successfully.
+[     32471] Loading script _lifecycle.gsc...
+[     32483] Script scripts/_lifecycle.gsc loaded successfully.
+[     32496] Loading script _log.gsc...
+[     32508] Script scripts/_log.gsc loaded successfully.
+[     32521] Loading script _utility.gsc...
+[     32532] Script scripts/_utility.gsc loaded successfully.
+[     32543] Loading script _http.gsc...
+[     32556] Script scripts/_http.gsc loaded successfully.
+[     32567] Loading script _commands.gsc...
+[     32578] Script scripts/_commands.gsc loaded successfully.
+[     32590] Loading script _customcallbacks.gsc...
+[     32602] Script scripts/_customcallbacks.gsc loaded successfully.
+[     32614] Loading script _integration_base.gsc...
+[     32626] Script scripts/_integration_base.gsc loaded successfully.
+[     32638] Loading script _integration_iw4x.gsc...
+[     32651] Script scripts/_integration_iw4x.gsc loaded successfully.
+[     32663] Loading script example_module.gsc...
+[     32677] Script scripts/example_module.gsc loaded successfully.
+[     32688] Loading script _integration_shared.gsc...
+[     32702] Script scripts/_integration_shared.gsc loaded successfully.
+[     32715] Loading script forceend.gsc...
+[     32728] Script scripts/forceend.gsc loaded successfully.
+[     32740] Loading script command_laser.gsc...
+[     32752] Script scripts/command_laser.gsc loaded successfully.
+[     32765] Loading script command_fps.gsc...
+[     32775] Script scripts/command_fps.gsc loaded successfully.
+[     32788] Loading script command_weapon.gsc...
+[     32800] Script scripts/command_weapon.gsc loaded successfully.
+[     32811] Loading script vote.gsc...
+[     32826] Script scripts/vote.gsc loaded successfully.
+[     32836] Loading script sleep.gsc...
+[     32849] Script scripts/sleep.gsc loaded successfully.
+[     32865] Loading script bots.gsc...
+[     32899] Script scripts/mp/bots.gsc loaded successfully.
+[     32910] Loading script bots_adapter_iw4x.gsc...
+[     32921] Script scripts/mp/bots_adapter_iw4x.gsc loaded successfully.
+[     32933] Loading script bots_chat.gsc...
+[     32949] Script scripts/mp/bots_chat.gsc loaded successfully.
+[     32962] Loading script bots_menu.gsc...
+[     32975] Script scripts/mp/bots_menu.gsc loaded successfully.
+[     32988] Loading script bots_wp_editor.gsc...
+[     33002] Script scripts/mp/bots_wp_editor.gsc loaded successfully.
+[     33024] Error: Could not load rawfile "maps/mp/so_killspree_invasion.gsc".
+[     33059] -----------------------------------
+[     33072] Executing 'scripts/randomizer::init'
+[     33200] Executing 'scripts/spectatorkick::init'
+[     33210] Executing 'scripts/weapon_drops::init'
+[     33221] Executing 'scripts/showhp::init'
+[     33233] Executing 'scripts/forceuav::init'
+[     33242] Executing 'scripts/fpsbooster::init'
+[     33253] Executing 'scripts/classchange::init'
+[     33264] Executing 'scripts/mp/bots_wp_editor::init'
+[     33274] Executing 'scripts/eyecandy::init'
+[     33284] Executing 'scripts/commands::init'
+[     33297] Executing 'scripts/dev_tools::init'
+[     33307] Executing 'scripts/incendiary::init'
+[     33318] Executing 'scripts/infinite_ammo::init'
+[     33329] Executing 'scripts/killstreaks::init'
+[     33339] Executing 'scripts/limit_offhands::init'
+[     33349] Executing 'scripts/mp/bots::init'
+[     33359] Executing 'scripts/messages::init'
+[     33369] Executing 'scripts/nextmap::init'
+[     33379] [nextmap]^7 No map rotation configured.
+[     33383] [nextmap]^7 Randomize: ^2enabled
+[     33395] [nextmap]^7 Randomize: ^2enabledExecuting 'scripts/perk_display::init'
+[     33399] Executing 'scripts/example_module::init'
+[     33410] Executing 'scripts/_lifecycle::init'
+[     33412] Executing 'scripts/_items::init'
+[     33414] Executing 'scripts/command_laser::init'
+[     33417] Executing 'scripts/_log::init'
+[     33428] Executing 'scripts/mp/bots_adapter_iw4x::init'
+[     33431] Executing 'scripts/_http::init'
+[     33441] Executing 'scripts/sleep::init'
+[     33452] [Sleep] scripts/sleep.gsc::init() start
+[     33463] [Sleep] sv_sleep is disabled.
+[     33474] Executing 'scripts/_commands::init'
+[     33485] Executing 'scripts/_customcallbacks::init'
+[     33496] Executing 'scripts/_integration_base::init'
+[     33507] Executing 'scripts/_integration_iw4x::init'
+[     33519] Executing 'scripts/_integration_shared::init'
+[     33529] Executing 'scripts/forceend::init'
+[     33539] Executing 'scripts/command_fps::init'
+[     33541] Executing 'scripts/command_weapon::init'
+[     33552] Executing 'scripts/vote::init'
+[     33564] Executing 'scripts/mp/bots_chat::init'
+[     33573] Executing 'scripts/mp/bots_menu::init'
+[     33602] 
+******* script runtime error *******
+assert fail: Destructible object with targetname 'destructible' does not have a 'destructible_type' key / value: [     33613] (file 'common_scripts/_destructible.gsc', line 158)
+[     33623]  AssertEx( IsDefined( self.destructible_type ), "Destructible object with targetname 'destructible' does not have a 'destructible_type' key / value" );
+[     33625]  *
+[     33640] Error: called from:
+[     33651] (file 'common_scripts/_destructible.gsc', line 102)
+[     33661]   vehicle setup_destructibles();
+[     33663]           *
+[     33704] Error: called from:
+[     33707] (file 'common_scripts/_destructible.gsc', line 50)
+[     33719]   find_destructibles();
+[     33721]   *
+[     33738] Error: called from:
+[     33741] (file 'maps/mp/_load.gsc', line 53)
+[     33753]   thread common_scripts\_destructible::init();
+[     33755]          *
+[     33789] Error: called from:
+[     33792] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     33805]  maps\mp\_load::main();
+[     33816]  *
+[     33835] Error: called from:
+[     33848] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     33861]   [[level.callbackStartGameType]]();
+[     33863]           *
+[     33885] Error: started from:
+[     33897] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     33900] CodeCallback_StartGameType()
+[     33902] *
+[     33915] Error: ************************************
+[     33928] 
+******* script runtime error *******
+pair 'undefined' and 'vehicle_subcompact_black' has unmatching types 'undefined' and 'string': [     33940] (file 'common_scripts/_destructible_types.gsc', line 487)
+[     33952]   if ( destructibleType == level.destructible_type[ i ].v[ "type" ] )
+[     33964]                         *
+[     34023] Error: called from:
+[     34035] (file 'common_scripts/_destructible_types.gsc', line 9)
+[     34051]  infoIndex = getInfoIndex( destructibleType );
+[     34063]              *
+[     34098] Error: called from:
+[     34114] (file 'common_scripts/_destructible.gsc', line 163)
+[     34125]  self.destuctableInfo = common_scripts\_destructible_types::makeType( self.destructible_type );
+[     34127]                         *
+[     34195] Error: called from:
+[     34199] (file 'common_scripts/_destructible.gsc', line 102)
+[     34214]   vehicle setup_destructibles();
+[     34216]           *
+[     34266] Error: called from:
+[     34280] (file 'common_scripts/_destructible.gsc', line 50)
+[     34282]   find_destructibles();
+[     34284]   *
+[     34293] Error: called from:
+[     34305] (file 'maps/mp/_load.gsc', line 53)
+[     34316]   thread common_scripts\_destructible::init();
+[     34317]          *
+[     34346] Error: called from:
+[     34358] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     34368]  maps\mp\_load::main();
+[     34370]  *
+[     34382] Error: called from:
+[     34393] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     34404]   [[level.callbackStartGameType]]();
+[     34405]           *
+[     34435] Error: started from:
+[     34447] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     34457] CodeCallback_StartGameType()
+[     34459] *
+[     34471] Error: ************************************
+[     34485] 
+******* script runtime error *******
+cannot cast undefined to bool: [     34499] (file 'common_scripts/_destructible_types.gsc', line 487)
+[     34514]   if ( destructibleType == level.destructible_type[ i ].v[ "type" ] )
+[     34515]                         *
+[     34568] Error: called from:
+[     34582] (file 'common_scripts/_destructible_types.gsc', line 9)
+[     34592]  infoIndex = getInfoIndex( destructibleType );
+[     34594]              *
+[     34633] Error: called from:
+[     34646] (file 'common_scripts/_destructible.gsc', line 163)
+[     34649]  self.destuctableInfo = common_scripts\_destructible_types::makeType( self.destructible_type );
+[     34651]                         *
+[     34706] Error: called from:
+[     34717] (file 'common_scripts/_destructible.gsc', line 102)
+[     34729]   vehicle setup_destructibles();
+[     34733]           *
+[     34763] Error: called from:
+[     34775] (file 'common_scripts/_destructible.gsc', line 50)
+[     34779]   find_destructibles();
+[     34781]   *
+[     34787] Error: called from:
+[     34799] (file 'maps/mp/_load.gsc', line 53)
+[     34801]   thread common_scripts\_destructible::init();
+[     34802]          *
+[     34830] Error: called from:
+[     34833] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     34844]  maps\mp\_load::main();
+[     34845]  *
+[     34855] Error: called from:
+[     34858] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     34871]   [[level.callbackStartGameType]]();
+[     34873]           *
+[     34893] Error: started from:
+[     34895] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     34907] CodeCallback_StartGameType()
+[     34909] *
+[     34911] Error: ************************************
+[     34924] 
+******* script runtime error *******
+undefined is not an array index: [     34926] (file 'common_scripts/_destructible.gsc', line 170)
+[     34937]  if ( !isdefined( level.created_destructibles[ self.destructible_type ] ) )
+[     34939]                                                     *
+[     35045] Error: called from:
+[     35057] (file 'common_scripts/_destructible.gsc', line 102)
+[     35059]   vehicle setup_destructibles();
+[     35060]           *
+[     35082] Error: called from:
+[     35092] (file 'common_scripts/_destructible.gsc', line 50)
+[     35094]   find_destructibles();
+[     35095]   *
+[     35103] Error: called from:
+[     35114] (file 'maps/mp/_load.gsc', line 53)
+[     35116]   thread common_scripts\_destructible::init();
+[     35118]          *
+[     35142] Error: called from:
+[     35145] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     35148]  maps\mp\_load::main();
+[     35150]  *
+[     35164] Error: called from:
+[     35167] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     35179]   [[level.callbackStartGameType]]();
+[     35181]           *
+[     35213] Error: started from:
+[     35215] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     35227] CodeCallback_StartGameType()
+[     35230] *
+[     35233] Error: ************************************
+[     35245] 
+******* script runtime error *******
+undefined is not an array index: [     35247] (file 'common_scripts/_destructible.gsc', line 171)
+[     35260]   level.created_destructibles[ self.destructible_type ] = [];
+[     35262]                                     *
+[     35339] Error: called from:
+[     35341] (file 'common_scripts/_destructible.gsc', line 102)
+[     35356]   vehicle setup_destructibles();
+[     35359]           *
+[     35377] Error: called from:
+[     35388] (file 'common_scripts/_destructible.gsc', line 50)
+[     35390]   find_destructibles();
+[     35392]   *
+[     35407] Error: called from:
+[     35409] (file 'maps/mp/_load.gsc', line 53)
+[     35420]   thread common_scripts\_destructible::init();
+[     35421]          *
+[     35438] Error: called from:
+[     35449] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     35452]  maps\mp\_load::main();
+[     35453]  *
+[     35457] Error: called from:
+[     35468] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     35470]   [[level.callbackStartGameType]]();
+[     35471]           *
+[     35500] Error: started from:
+[     35502] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     35513] CodeCallback_StartGameType()
+[     35516] *
+[     35519] Error: ************************************
+[     35530] 
+******* script runtime error *******
+undefined is not an array index: [     35532] (file 'common_scripts/_destructible.gsc', line 172)
+[     35544]  nextIndex = level.created_destructibles[ self.destructible_type ].size;
+[     35547]                                                *
+[     35656] Error: called from:
+[     35658] (file 'common_scripts/_destructible.gsc', line 102)
+[     35661]   vehicle setup_destructibles();
+[     35663]           *
+[     35689] Error: called from:
+[     35692] (file 'common_scripts/_destructible.gsc', line 50)
+[     35694]   find_destructibles();
+[     35695]   *
+[     35712] Error: called from:
+[     35714] (file 'maps/mp/_load.gsc', line 53)
+[     35725]   thread common_scripts\_destructible::init();
+[     35727]          *
+[     35752] Error: called from:
+[     35764] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     35768]  maps\mp\_load::main();
+[     35771]  *
+[     35780] Error: called from:
+[     35793] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     35799]   [[level.callbackStartGameType]]();
+[     35804]           *
+[     35847] Error: started from:
+[     35860] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     35864] CodeCallback_StartGameType()
+[     35866] *
+[     35876] Error: ************************************
+[     35880] 
+******* script runtime error *******
+size cannot be applied to undefined: [     35892] (file 'common_scripts/_destructible.gsc', line 172)
+[     35903]  nextIndex = level.created_destructibles[ self.destructible_type ].size;
+[     35904]                                         *
+[     35974] Error: called from:
+[     35986] (file 'common_scripts/_destructible.gsc', line 102)
+[     35998]   vehicle setup_destructibles();
+[     35999]           *
+[     36025] Error: called from:
+[     36037] (file 'common_scripts/_destructible.gsc', line 50)
+[     36040]   find_destructibles();
+[     36042]   *
+[     36050] Error: called from:
+[     36062] (file 'maps/mp/_load.gsc', line 53)
+[     36065]   thread common_scripts\_destructible::init();
+[     36075]          *
+[     36093] Error: called from:
+[     36097] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     36115]  maps\mp\_load::main();
+[     36117]  *
+[     36121] Error: called from:
+[     36131] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     36133]   [[level.callbackStartGameType]]();
+[     36135]           *
+[     36181] Error: started from:
+[     36187] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     36205] CodeCallback_StartGameType()
+[     36208] *
+[     36210] Error: ************************************
+[     36223] 
+******* script runtime error *******
+undefined is not an array index: [     36225] (file 'common_scripts/_destructible.gsc', line 173)
+[     36238]  level.created_destructibles[ self.destructible_type ][ nextIndex ] = self;
+[     36240]                                    *
+[     36329] Error: called from:
+[     36331] (file 'common_scripts/_destructible.gsc', line 102)
+[     36335]   vehicle setup_destructibles();
+[     36335]           *
+[     36365] Error: called from:
+[     36369] (file 'common_scripts/_destructible.gsc', line 50)
+[     36380]   find_destructibles();
+[     36382]   *
+[     36398] Error: called from:
+[     36400] (file 'maps/mp/_load.gsc', line 53)
+[     36402]   thread common_scripts\_destructible::init();
+[     36403]          *
+[     36430] Error: called from:
+[     36441] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     36443]  maps\mp\_load::main();
+[     36445]  *
+[     36449] Error: called from:
+[     36459] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     36470]   [[level.callbackStartGameType]]();
+[     36471]           *
+[     36499] Error: started from:
+[     36501] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     36517] CodeCallback_StartGameType()
+[     36520] *
+[     36522] Error: ************************************
+[     36533] 
+******* script runtime error *******
+undefined is not an array index: [     36543] (file 'common_scripts/_destructible.gsc', line 173)
+[     36547]  level.created_destructibles[ self.destructible_type ][ nextIndex ] = self;
+[     36549]                                                         *
+[     36658] Error: called from:
+[     36671] (file 'common_scripts/_destructible.gsc', line 102)
+[     36681]   vehicle setup_destructibles();
+[     36683]           *
+[     36704] Error: called from:
+[     36706] (file 'common_scripts/_destructible.gsc', line 50)
+[     36717]   find_destructibles();
+[     36719]   *
+[     36734] Error: called from:
+[     36736] (file 'maps/mp/_load.gsc', line 53)
+[     36738]   thread common_scripts\_destructible::init();
+[     36739]          *
+[     36765] Error: called from:
+[     36767] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     36777]  maps\mp\_load::main();
+[     36780]  *
+[     36792] Error: called from:
+[     36795] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     36806]   [[level.callbackStartGameType]]();
+[     36807]           *
+[     36825] Error: started from:
+[     36835] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     36846] CodeCallback_StartGameType()
+[     36848] *
+[     36850] Error: ************************************
+[     36861] 
+******* script runtime error *******
+assert fail: Destructible object with targetname 'destructible' does not have a 'destructible_type' key / value: [     36872] (file 'common_scripts/_destructible.gsc', line 158)
+[     36874]  AssertEx( IsDefined( self.destructible_type ), "Destructible object with targetname 'destructible' does not have a 'destructible_type' key / value" );
+[     36876]  *
+[     36880] Error: called from:
+[     36891] (file 'common_scripts/_destructible.gsc', line 102)
+[     36902]   vehicle setup_destructibles();
+[     36903]           *
+[     36930] Error: called from:
+[     36941] (file 'common_scripts/_destructible.gsc', line 50)
+[     36944]   find_destructibles();
+[     36945]   *
+[     36953] Error: called from:
+[     36963] (file 'maps/mp/_load.gsc', line 53)
+[     36973]   thread common_scripts\_destructible::init();
+[     36974]          *
+[     37000] Error: called from:
+[     37010] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     37014]  maps\mp\_load::main();
+[     37017]  *
+[     37030] Error: called from:
+[     37032] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     37043]   [[level.callbackStartGameType]]();
+[     37047]           *
+[     37073] Error: started from:
+[     37085] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     37096] CodeCallback_StartGameType()
+[     37099] *
+[     37112] Error: ************************************
+[     37122] 
+******* script runtime error *******
+pair 'undefined' and 'vehicle_subcompact_black' has unmatching types 'undefined' and 'string': [     37134] (file 'common_scripts/_destructible_types.gsc', line 487)
+[     37145]   if ( destructibleType == level.destructible_type[ i ].v[ "type" ] )
+[     37146]                         *
+[     37213] Error: called from:
+[     37215] (file 'common_scripts/_destructible_types.gsc', line 9)
+[     37225]  infoIndex = getInfoIndex( destructibleType );
+[     37227]              *
+[     37269] Error: called from:
+[     37280] (file 'common_scripts/_destructible.gsc', line 163)
+[     37292]  self.destuctableInfo = common_scripts\_destructible_types::makeType( self.destructible_type );
+[     37294]                         *
+[     37348] Error: called from:
+[     37359] (file 'common_scripts/_destructible.gsc', line 102)
+[     37369]   vehicle setup_destructibles();
+[     37371]           *
+[     37391] Error: called from:
+[     37402] (file 'common_scripts/_destructible.gsc', line 50)
+[     37413]   find_destructibles();
+[     37414]   *
+[     37430] Error: called from:
+[     37440] (file 'maps/mp/_load.gsc', line 53)
+[     37450]   thread common_scripts\_destructible::init();
+[     37452]          *
+[     37470] Error: called from:
+[     37481] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     37491]  maps\mp\_load::main();
+[     37493]  *
+[     37506] Error: called from:
+[     37518] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     37529]   [[level.callbackStartGameType]]();
+[     37531]           *
+[     37560] Error: started from:
+[     37572] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     37583] CodeCallback_StartGameType()
+[     37585] *
+[     37595] Error: ************************************
+[     37607] 
+******* script runtime error *******
+cannot cast undefined to bool: [     37618] (file 'common_scripts/_destructible_types.gsc', line 487)
+[     37628]   if ( destructibleType == level.destructible_type[ i ].v[ "type" ] )
+[     37630]                         *
+[     37687] Error: called from:
+[     37699] (file 'common_scripts/_destructible_types.gsc', line 9)
+[     37711]  infoIndex = getInfoIndex( destructibleType );
+[     37713]              *
+[     37759] Error: called from:
+[     37762] (file 'common_scripts/_destructible.gsc', line 163)
+[     37774]  self.destuctableInfo = common_scripts\_destructible_types::makeType( self.destructible_type );
+[     37775]                         *
+[     37835] Error: called from:
+[     37847] (file 'common_scripts/_destructible.gsc', line 102)
+[     37860]   vehicle setup_destructibles();
+[     37862]           *
+[     37897] Error: called from:
+[     37910] (file 'common_scripts/_destructible.gsc', line 50)
+[     37915]   find_destructibles();
+[     37917]   *
+[     37936] Error: called from:
+[     37950] (file 'maps/mp/_load.gsc', line 53)
+[     37966]   thread common_scripts\_destructible::init();
+[     37967]          *
+[     38001] Error: called from:
+[     38005] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     38023]  maps\mp\_load::main();
+[     38034]  *
+[     38042] Error: called from:
+[     38054] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     38065]   [[level.callbackStartGameType]]();
+[     38067]           *
+[     38101] Error: started from:
+[     38114] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     38116] CodeCallback_StartGameType()
+[     38118] *
+[     38129] Error: ************************************
+[     38141] 
+******* script runtime error *******
+undefined is not an array index: [     38151] (file 'common_scripts/_destructible.gsc', line 170)
+[     38162]  if ( !isdefined( level.created_destructibles[ self.destructible_type ] ) )
+[     38164]                                                     *
+[     38279] Error: called from:
+[     38282] (file 'common_scripts/_destructible.gsc', line 102)
+[     38296]   vehicle setup_destructibles();
+[     38298]           *
+[     38326] Error: called from:
+[     38337] (file 'common_scripts/_destructible.gsc', line 50)
+[     38339]   find_destructibles();
+[     38341]   *
+[     38365] Error: called from:
+[     38367] (file 'maps/mp/_load.gsc', line 53)
+[     38379]   thread common_scripts\_destructible::init();
+[     38381]          *
+[     38407] Error: called from:
+[     38419] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     38422]  maps\mp\_load::main();
+[     38423]  *
+[     38437] Error: called from:
+[     38449] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     38460]   [[level.callbackStartGameType]]();
+[     38462]           *
+[     38491] Error: started from:
+[     38502] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     38505] CodeCallback_StartGameType()
+[     38509] *
+[     38521] Error: ************************************
+[     38532] 
+******* script runtime error *******
+undefined is not an array index: [     38545] (file 'common_scripts/_destructible.gsc', line 171)
+[     38557]   level.created_destructibles[ self.destructible_type ] = [];
+[     38558]                                     *
+[     38659] Error: called from:
+[     38662] (file 'common_scripts/_destructible.gsc', line 102)
+[     38673]   vehicle setup_destructibles();
+[     38675]           *
+[     38695] Error: called from:
+[     38708] (file 'common_scripts/_destructible.gsc', line 50)
+[     38719]   find_destructibles();
+[     38721]   *
+[     38731] Error: called from:
+[     38745] (file 'maps/mp/_load.gsc', line 53)
+[     38755]   thread common_scripts\_destructible::init();
+[     38757]          *
+[     38785] Error: called from:
+[     38797] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     38808]  maps\mp\_load::main();
+[     38809]  *
+[     38823] Error: called from:
+[     38835] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     38846]   [[level.callbackStartGameType]]();
+[     38848]           *
+[     38883] Error: started from:
+[     38886] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     38897] CodeCallback_StartGameType()
+[     38909] *
+[     38912] Error: ************************************
+[     38923] 
+******* script runtime error *******
+undefined is not an array index: [     38934] (file 'common_scripts/_destructible.gsc', line 172)
+[     38947]  nextIndex = level.created_destructibles[ self.destructible_type ].size;
+[     38957]                                                *
+[     39067] Error: called from:
+[     39070] (file 'common_scripts/_destructible.gsc', line 102)
+[     39087]   vehicle setup_destructibles();
+[     39089]           *
+[     39131] Error: called from:
+[     39133] (file 'common_scripts/_destructible.gsc', line 50)
+[     39145]   find_destructibles();
+[     39147]   *
+[     39163] Error: called from:
+[     39175] (file 'maps/mp/_load.gsc', line 53)
+[     39188]   thread common_scripts\_destructible::init();
+[     39190]          *
+[     39225] Error: called from:
+[     39228] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     39247]  maps\mp\_load::main();
+[     39248]  *
+[     39266] Error: called from:
+[     39281] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     39293]   [[level.callbackStartGameType]]();
+[     39295]           *
+[     39331] Error: started from:
+[     39345] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     39357] CodeCallback_StartGameType()
+[     39361] *
+[     39374] Error: ************************************
+[     39386] 
+******* script runtime error *******
+size cannot be applied to undefined: [     39398] (file 'common_scripts/_destructible.gsc', line 172)
+[     39409]  nextIndex = level.created_destructibles[ self.destructible_type ].size;
+[     39420]                                         *
+[     39489] Error: called from:
+[     39491] (file 'common_scripts/_destructible.gsc', line 102)
+[     39503]   vehicle setup_destructibles();
+[     39504]           *
+[     39525] Error: called from:
+[     39527] (file 'common_scripts/_destructible.gsc', line 50)
+[     39530]   find_destructibles();
+[     39531]   *
+[     39548] Error: called from:
+[     39559] (file 'maps/mp/_load.gsc', line 53)
+[     39570]   thread common_scripts\_destructible::init();
+[     39572]          *
+[     39599] Error: called from:
+[     39610] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     39613]  maps\mp\_load::main();
+[     39615]  *
+[     39628] Error: called from:
+[     39639] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     39650]   [[level.callbackStartGameType]]();
+[     39651]           *
+[     39687] Error: started from:
+[     39689] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     39700] CodeCallback_StartGameType()
+[     39702] *
+[     39714] Error: ************************************
+[     39725] 
+******* script runtime error *******
+undefined is not an array index: [     39737] (file 'common_scripts/_destructible.gsc', line 173)
+[     39750]  level.created_destructibles[ self.destructible_type ][ nextIndex ] = self;
+[     39752]                                    *
+[     39822] Error: called from:
+[     39834] (file 'common_scripts/_destructible.gsc', line 102)
+[     39847]   vehicle setup_destructibles();
+[     39849]           *
+[     39870] Error: called from:
+[     39872] (file 'common_scripts/_destructible.gsc', line 50)
+[     39884]   find_destructibles();
+[     39885]   *
+[     39892] Error: called from:
+[     39902] (file 'maps/mp/_load.gsc', line 53)
+[     39915]   thread common_scripts\_destructible::init();
+[     39918]          *
+[     39952] Error: called from:
+[     39955] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     39965]  maps\mp\_load::main();
+[     39967]  *
+[     39981] Error: called from:
+[     39983] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     39994]   [[level.callbackStartGameType]]();
+[     39996]           *
+[     40019] Error: started from:
+[     40032] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     40042] CodeCallback_StartGameType()
+[     40048] *
+[     40059] Error: ************************************
+[     40071] 
+******* script runtime error *******
+undefined is not an array index: [     40083] (file 'common_scripts/_destructible.gsc', line 173)
+[     40094]  level.created_destructibles[ self.destructible_type ][ nextIndex ] = self;
+[     40095]                                                         *
+[     40230] Error: called from:
+[     40240] (file 'common_scripts/_destructible.gsc', line 102)
+[     40253]   vehicle setup_destructibles();
+[     40254]           *
+[     40282] Error: called from:
+[     40292] (file 'common_scripts/_destructible.gsc', line 50)
+[     40302]   find_destructibles();
+[     40304]   *
+[     40318] Error: called from:
+[     40320] (file 'maps/mp/_load.gsc', line 53)
+[     40331]   thread common_scripts\_destructible::init();
+[     40333]          *
+[     40377] Error: called from:
+[     40380] (file 'maps/mp/gametypes/_gamelogic.gsc', line 1237)
+[     40391]  maps\mp\_load::main();
+[     40392]  *
+[     40397] Error: called from:
+[     40407] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 18)
+[     40409]   [[level.callbackStartGameType]]();
+[     40411]           *
+[     40438] Error: started from:
+[     40449] (file 'maps/mp/gametypes/_callbacksetup.gsc', line 10)
+[     40451] CodeCallback_StartGameType()
+[     40453] *
+[     40464] Error: ************************************
+[     40475] script runtime warning: potential infinite loop in script 6891 > 5000.
+[     40485] (file 'common_scripts/_destructible.gsc', line 761)
+[     40497]   for ( j = 0; j < level.destructible_type[ self.destuctableInfo ].parts[ i ].size; j++ )
+[     40499]   *
+[     40510]  * ERROR * No attackers or defenders team defined in level .gsc.
+[     40526] SESSION INFO
+[     40539] =====================================
+[     40553]   Map:         so_killspree_invasion
+[     40565]   Script:      war
+[     40580]   HardCore:    0
+[     40593]   Diehard:     0
+[     40605]   3rd Person:  0
+[     40618]   Round:       0
+[     40623]   scr_war_scorelimit 7500
+[     40627]   scr_war_roundlimit 1
+[     40639]   scr_war_winlimit 1
+[     40652]   scr_war_timelimit 10
+[     40665]   scr_war_numlives 0
+[     40677]   scr_war_halftime 
+[     40683]   scr_war_roundswitch 
+[     40696] =====================================
+[     40765] TOTAL CHALLENGE REWARD XP: 8291500
+[     43345] gameid 8fc52b
+[     43355] 
+******* script runtime error *******
+int is not a field object: [     43368] (file 'scripts/forceuav.gsc', line 29)
+[     43380]  if (level.forceuav.type == UAV_SWEEP && level.teamBased)
+[     43381]            *
+[     43412] Error: started from:
+[     43423] (file 'scripts/forceuav.gsc', line 27)
+[     43435]  waittillframeend;
+[     43436]  *
+[     43441] Error: ************************************
+[     43453] 
+******* script runtime error *******
+pair 'undefined' and '1' has unmatching types 'undefined' and 'int': [     43455] (file 'scripts/forceuav.gsc', line 29)
+[     43469]  if (level.forceuav.type == UAV_SWEEP && level.teamBased)
+[     43472]                          *
+[     43526] Error: started from:
+[     43537] (file 'scripts/forceuav.gsc', line 27)
+[     43549]  waittillframeend;
+[     43551]  *
+[     43565] Error: ************************************
+[     43576] 
+******* script runtime error *******
+cannot cast undefined to bool: [     43588] (file 'scripts/forceuav.gsc', line 29)
+[     43601]  if (level.forceuav.type == UAV_SWEEP && level.teamBased)
+[     43603]                          *
+[     43656] Error: started from:
+[     43658] (file 'scripts/forceuav.gsc', line 27)
+[     43668]  waittillframeend;
+[     43669]  *
+[     43682] Error: ************************************
+[     43685] Pipe successfully created
+[     43696] Could not fetch latest tag from GitHub
+[     43708] -----------------------------------
+[     43748] Steam Dev print - Not in an online game, so we're going to leave immediately: 0x18400000014672c
+[     43772] SV_DirectConnect()
+[     43784] Not invited (invited is '0')
+[     43787] Going from CS_FREE to CS_CONNECTED for  (num 0 guid "e9fd6b28ed56c05c")
+[     43789] Setting client 0 NATTYPE to 1
+[     43800] Setting client 0 XNADDR to 3002a8c00000000000007120000000000000000000000000000000000000000000000000
+[     43802] Setting client 0 XUID to e9fd6b28ed56c05c
+[     43819] Could not load loaded_sound "user_interface/ui_arcade_zero_death1.wav".
+[     43831] Could not load fx "muzzleflashes/heavy_view".
+[     43842] Could not load xmodel "weapon_mini_uzi_clip".
+[     43852] Could not load xmodel "weapon_rpd_clip".
+[     43863] Could not load xmodel "com_junktire".
+[     43875] Could not load physpreset "tire".
+[     43885] Could not load loaded_sound "doors/door_wd_kick02.wav".
+[     43897] Could not load material "gfx_smk_cc116_atlas".
+[     43953] Received packet 0 of stats data from clientNum 0
+[     44003] Received packet 1 of stats data from clientNum 0
+[     44054] Received packet 2 of stats data from clientNum 0
+[     44105] Received packet 3 of stats data from clientNum 0
+[     44155] Received packet 4 of stats data from clientNum 0
+[     44203] Received packet 5 of stats data from clientNum 0
+[     44250] Received packet 6 of stats data from clientNum 0
+[     44271] Blu^:scream : dropped gamestate, resending
+[     44282] SV_SendClientGameState() for ^4Blu^:scream
+[     44294] Going from CS_CONNECTED to CS_CLIENTLOADING for ^4Blu^:scream
+[     44310] Sending 54393 bytes in gamestate to client: 0
+[     45639] Com_TouchMemory: 0 msec. Using sum: 369855371
+[     47962] 0% config string match, 0% config string coverage.
+[     47974] Setting state to CA_LOADING in CL_DownloadsComplete
+[     47986] Setting state to CA_LOADING in CL_InitCGame
+[     48109] Starting to back up world specular maps.
+[     48121] Finished backing up world specular maps.
+[     48140] About to sort world surfaces.
+[     48143] Finished sorting world surfaces.
+[     48143] Starting to back up world specular maps.
+[     48143] Finished backing up world specular maps.
+[     48284] Error: Could not load rawfile "vision/so_killspree_invasion.vision".
+[     48296] Error: couldn't open 'vision/so_killspree_invasion.vision'.
+[     48311] Error: Could not load rawfile "maps/mp/so_killspree_invasion_fx.gsc".
+[     48323] Error: file not found: maps/mp/so_killspree_invasion_fx.gsc
+[     48335] Error: Could not load rawfile "maps/createfx/so_killspree_invasion_fx.gsc".
+[     48348] Error: file not found: maps/createfx/so_killspree_invasion_fx.gsc
+[     48386] CL_InitCGame:  0.40 seconds
+[     48398] Com_TouchMemory: 0 msec. Using sum: 369855371
+[     48409] Hiding channel: gamenotify
+[     48412] Hiding channel: obituary
+[     48423] Adding channel: gamenotify
+[     48426] Adding channel: obituary
+[     48437] Hiding channel: boldgame
+[     48439] Adding channel: boldgame
+[     48452] Hiding channel: subtitle
+[     48464] Adding channel: subtitle
+[     48466] No channels added or hidden
+[     48504] 4400: Going from CS_CLIENTLOADING to CS_ACTIVE for ^4Blu^:scream
+[     48563] Giving ^4Blu^:scream a 999 ping - > calculated ping: 4179
+[     48584] Failed to predict spawn for player ^4Blu^:scream at (-1354, -3584, 2630)
+[     48597] 
+******* script runtime error *******
+int is not a field object: [     48610] (file 'scripts/forceuav.gsc', line 62)
+[     48621]  if (level.forceuav.type == UAV_SWEEP && !level.teamBased)
+[     48622]            *
+[     48655] Error: started from:
+[     48658] (file 'scripts/forceuav.gsc', line 60)
+[     48673]  waittillframeend;
+[     48675]  *
+[     48689] Error: ************************************
+[     48702] 
+******* script runtime error *******
+pair 'undefined' and '1' has unmatching types 'undefined' and 'int': [     48713] (file 'scripts/forceuav.gsc', line 62)
+[     48715]  if (level.forceuav.type == UAV_SWEEP && !level.teamBased)
+[     48717]                          *
+[     48783] Error: started from:
+[     48794] (file 'scripts/forceuav.gsc', line 60)
+[     48795]  waittillframeend;
+[     48797]  *
+[     48801] Error: ************************************
+[     48812] 
+******* script runtime error *******
+cannot cast undefined to bool: [     48824] (file 'scripts/forceuav.gsc', line 62)
+[     48835]  if (level.forceuav.type == UAV_SWEEP && !level.teamBased)
+[     48845]                          *
+[     48907] Error: started from:
+[     48909] (file 'scripts/forceuav.gsc', line 60)
+[     48920]  waittillframeend;
+[     48922]  *
+[     48935] Error: ************************************
+[     48950] Giving ^4Blu^:scream a 999 ping - > calculated ping: 4179
+[     48971] recording to demos/auto_1708612526.dm_13.
+[     48988] Playing smoke grenades at time 4450
+[     49135] Giving ^4Blu^:scream a 999 ping - > calculated ping: 2181
+[     49250] Giving ^4Blu^:scream a 999 ping - > calculated ping: 2181
+[     49517] Giving ^4Blu^:scream a 999 ping - > calculated ping: 2181
+[     49635] Blu^:scream: Delta against baseline snapshot (by client request)
+[     51185] Predicted ^4Blu^:scream's spawn 0.8 seconds ahead of time
+[     51305] Too many bsp pretess surfaces - using fallback
+[     51324] Too many bsp pretess surfaces - using fallback
+[     55794] Too many bsp pretess surfaces - using fallback
+[     60813] Too many bsp pretess surfaces - using fallback
+[     62003] Error: couldn't open 'vision/so_killspree_invasion.vision'.
+[     74307] Grenade from ent 0 landed with fuse time 1.600 sec left
+[     75578] Too many bsp pretess surfaces - using fallback
+[     75597] Too many bsp pretess surfaces - using fallback
+[     75608] Too many bsp pretess surfaces - using fallback
+[     75949] -0.639655
+[     75955] -0.759426
+[     80127] Too many bsp pretess surfaces - using fallback
+[     83978] Too many bsp pretess surfaces - using fallback
+[     89418] Too many bsp pretess surfaces - using fallback
+[     98764] Failed to predict spawn for player ^4Blu^:scream at (-1354, -3584, 2630)
+[    101463] ****** Spawnpoint Prediction *******
+[    101482] There were 3 spawns. 2 (66%) failed to be predicted.
+[    101497] Out of the predicted ones...
+[    101510]  1 (100%) were perfect
+[    101527]  0 (0%) were within 128 units
+[    101546]  0 (0%) were within 256 units
+[    101561]  0 (0%) were within 512 units
+[    101575]  0 (0%) were within 1024 units
+[    101590]  0 (0%) were within 2048 units
+[    101603]  0 (0%) were beyond 2048 units
+[    101617] *************
+[    101630] Failed to predict spawn for player ^4Blu^:scream at (-1354, -3584, 2630)
+[    109408] Failed to predict spawn for player ^4Blu^:scream at (-1354, -3584, 2630)
+[    109422] Awards: Assigning
+[    109429] Awards: [Blu^:scream] won 13 awards
+[    109461] Awards: [Blu^:scream][0] deaths 0
+[    109490] Awards: [Blu^:scream][1] explosionssurvived 1
+[    109535] Awards: [Blu^:scream][2] distancetraveled 11602
+[    109575] Awards: [Blu^:scream][3] mostreloads 4
+[    109601] Awards: [Blu^:scream][4] mostswaps 1
+[    109624] Awards: [Blu^:scream][5] noflankdeaths 1
+[    109643] Awards: [Blu^:scream][6] fbhits 1
+[    109658] Awards: [Blu^:scream][7] crouchtime 2500
+[    109685] Awards: [Blu^:scream][8] mostshotsfired 76
+[    109713] Awards: [Blu^:scream][9] timeinspot 30000
+[    109751] Awards: [Blu^:scream][10] greatestavgalt 2317.99
+[    109769] Awards: [Blu^:scream][11] leastavgalt 2317.99
+[    109796] Awards: [Blu^:scream][12] afk 0
+[    109835] Awards: Finished assigning
+[    109848] Scoreboard: Building scoreboard (allies)
+[    109860] Scoreboard: Building scoreboard (axis)
+[    109874] Error: Could not load material "preview_mp_carentan_2".
+[    109886] Error: Could not load material "preview_mp_rundown".
+[    109898] Error: Could not load material "preview_airport".
+[    109909] Error: Could not load material "preview_mp_estate_tropical".
+[    109921] Error: Could not load material "preview_mp_convoy".
+[    109933] Error: Could not load material "preview_arcadia".
+[    109944] Error: Could not load material "preview_mp_storm".
+[    109957] Error: Could not load material "preview_mp_arbor".
+[    109970] Error: Could not load material "preview_favela_escape".
+[    109998] About to sort world surfaces.
+[    110013] Finished sorting world surfaces.
+[    110028] Starting to back up world specular maps.
+[    110030] Finished backing up world specular maps.
+[    113388] 
+******* script runtime error *******
+pair 'undefined' and '1000' has unmatching types 'undefined' and 'int': [    113400] (file 'maps/mp/gametypes/_gamelogic.gsc', line 385)
+[    113411]  setGameEndTime( getTime() + int(waitTime*1000) );
+[    113413]                                          *
+[    113523] Error: called from:
+[    113526] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    113539]   thread timeLimitClock_Intermission( intermissionTime );
+[    113542]          *
+[    113578] Error: started from:
+[    113594] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    113598]    wait 3.0;
+[    113606]    *
+[    113634] Error: ************************************
+[    113649] 
+******* script runtime error *******
+cannot cast undefined to int: [    113663] (file 'maps/mp/gametypes/_gamelogic.gsc', line 385)
+[    113679]  setGameEndTime( getTime() + int(waitTime*1000) );
+[    113683]                            *
+[    113752] Error: called from:
+[    113762] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    113774]   thread timeLimitClock_Intermission( intermissionTime );
+[    113775]          *
+[    113802] Error: started from:
+[    113813] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    113823]    wait 3.0;
+[    113824]    *
+[    113849] Error: ************************************
+[    113861] 
+******* script runtime error *******
+pair '67400' and 'undefined' has unmatching types 'int' and 'undefined': [    113871] (file 'maps/mp/gametypes/_gamelogic.gsc', line 385)
+[    113882]  setGameEndTime( getTime() + int(waitTime*1000) );
+[    113884]                            *
+[    113940] Error: called from:
+[    113951] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    113962]   thread timeLimitClock_Intermission( intermissionTime );
+[    113964]          *
+[    113995] Error: started from:
+[    114014] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    114027]    wait 3.0;
+[    114039]    *
+[    114051] Error: ************************************
+[    114054] 
+******* script runtime error *******
+type undefined is not an int: [    114067] (file 'maps/mp/gametypes/_gamelogic.gsc', line 386)
+[    114080]  clockObject = spawn( "script_origin", (0,0,0) );
+[    114084]                                        *
+[    114215] Error: called from:
+[    114228] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    114241]   thread timeLimitClock_Intermission( intermissionTime );
+[    114243]          *
+[    114276] Error: started from:
+[    114279] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    114290]    wait 3.0;
+[    114302]    *
+[    114311] Error: ************************************
+[    114322] 
+******* script runtime error *******
+pair 'undefined' and '10' has unmatching types 'undefined' and 'float': [    114334] (file 'maps/mp/gametypes/_gamelogic.gsc', line 389)
+[    114345]  if ( waitTime >= 10.0 )
+[    114347]                *
+[    114393] Error: called from:
+[    114404] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    114415]   thread timeLimitClock_Intermission( intermissionTime );
+[    114417]          *
+[    114449] Error: started from:
+[    114460] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    114462]    wait 3.0;
+[    114464]    *
+[    114483] Error: ************************************
+[    114494] 
+******* script runtime error *******
+cannot cast undefined to bool: [    114505] (file 'maps/mp/gametypes/_gamelogic.gsc', line 389)
+[    114507]  if ( waitTime >= 10.0 )
+[    114508]                *
+[    114548] Error: called from:
+[    114558] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    114568]   thread timeLimitClock_Intermission( intermissionTime );
+[    114570]          *
+[    114597] Error: started from:
+[    114601] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    114613]    wait 3.0;
+[    114615]    *
+[    114633] Error: ************************************
+[    114645] 
+******* script runtime error *******
+pair 'undefined' and '10' has unmatching types 'undefined' and 'float': [    114657] (file 'maps/mp/gametypes/_gamelogic.gsc', line 390)
+[    114672]   wait ( waitTime - 10.0 );
+[    114683]                   *
+[    114768] Error: called from:
+[    114785] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    114799]   thread timeLimitClock_Intermission( intermissionTime );
+[    114801]          *
+[    114834] Error: started from:
+[    114845] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    114860]    wait 3.0;
+[    114874]    *
+[    114887] Error: ************************************
+[    114891] 
+******* script runtime error *******
+type undefined is not a float: [    114905] (file 'maps/mp/gametypes/_gamelogic.gsc', line 390)
+[    114922]   wait ( waitTime - 10.0 );
+[    114925]        *
+[    114959] Error: called from:
+[    114970] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2211)
+[    114982]   thread timeLimitClock_Intermission( intermissionTime );
+[    114983]          *
+[    115021] Error: started from:
+[    115030] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    115033]    wait 3.0;
+[    115035]    *
+[    115052] Error: ************************************
+[    115063] 
+******* script runtime error *******
+type undefined is not a float: [    115075] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2212)
+[    115087]   wait intermissionTime;
+[    115088]        *
+[    115110] Error: started from:
+[    115121] (file 'maps/mp/gametypes/_gamelogic.gsc', line 2195)
+[    115123]    wait 3.0;
+[    115124]    *
+[    115140] Error: ************************************
+[    115153] Not performing map rotation as sv_dontRotate is true
+[    115169] CL_Disconnect called for local client 0
+[    115192] Stopped demo.
+[    115207] Saving lastPlayedTime of 1708612592.
+[    115219] Setting MP Completion to 1100 percent for controller #0.
+[    115236] Beginning stats upload for controller 0
+[    115241] ----- Server Shutdown -----
+[    115254] ==== ShutdownGame (1) ====
+[    115266] Going to CS_ZOMBIE from 5 for ^4Blu^:scream due to EXE_DISCONNECTED
+[    115279] 0:^4Blu^:scream EXE_DISCONNECTED
+[    115292] CL_Disconnect called for local client 0
+[    115292] Not uploading stats: no statWriteNeeded (cont 0)
+[    115332] ---------------------------
+[    115336] ----- R_Init -----
+[    115386] Video memory for device: 3072 MB.
+[    115402] Rounded video memory size: 2048 MB.
+[    115420] Available DirectX texture memory: 4095 MB.
+[    115432] DirectX reports 2048 MB of video memory and 4095 MB of available texture memory.
+[    115443] Using video memory size to cap used texture memory at 2032 MB.
+[    115455] Using previously reported texture memory size of 2032 MB.
+[    115470] Using reported available texture memory: 2032 MB.
+[    115484] Picmip is set manually.
+[    115496] Using picmip 0 on most textures, 0 on normal maps, and 0 on specular maps
+[    115579] Unloaded fastfile iw4x_localized_english
+[    115596] Unloaded fastfile iw4x_team_opforce_composite
+[    115617] Unloaded fastfile iw4x_team_us_army
+[    115635] Unloaded fastfile invasion
+[    115670] Unloaded fastfile so_killspree_invasion
+[    115690] Loading fastfile ui_mp
+[    115693] Loading fastfile localized_ui_mp
+[    115710] Loading fastfile iw4x_ui_mp
+[    115714] Loading fastfile iw4x_localized_english
+[    115941] Waited 197 msec for asset 'logo_cod2' of type 'material'.
+[    116001] Waited 36 msec for asset 'animbg_blur_front' of type 'material'.
+[    116634] Successfully wrote stats data
+[    116650] loopback: Got msg sequence 1247 but connstate (0) is < CA_CONNECTED
+[    116663] loopback: Got msg sequence 1248 but connstate (0) is < CA_CONNECTED
+[    116678] Calling Party_StopParty() for partyId 0
+[    116678] Not uploading stats: no statWriteNeeded (cont 0)
+[    116691] Clearing migration data
+[    116705] Clearing migration data
+[    116719] Calling Party_StopParty() for partyId 1
+[    116734] Clearing migration data
+[    116747] Clearing migration data
+[    116762] Error: Could not load techset "mc_l_hsm_r0c0n0s0_custom_objective_sat.5x".
+[    119363] quitting...
+[    119364] ----- CL_Shutdown -----
+[    119364] CL_Disconnect called for local client 0
+[    119365] Not uploading stats: no statWriteNeeded (cont 0)
+[    119365] -----------------------
+[    119365] ----- CL_ShutdownOnceForAllClients -----
+[    119403] -----------------------
+[    119451] Unloaded fastfile iw4x_localized_english
+[    119451] Unloaded fastfile iw4x_ui_mp
+[    119451] Unloaded fastfile localized_ui_mp
+[    119451] Unloaded fastfile ui_mp
+[    119451] Unloaded fastfile iw4x_patch_mp
+[    119453] Unloaded fastfile localized_common_mp
+[    119453] Unloaded fastfile common_mp
+[    119462] Unloaded fastfile iw4x_code_post_gfx_mp
+[    119463] Unloaded fastfile patch_mp
+[    119463] Unloaded fastfile localized_code_post_gfx_mp
+[    119463] Unloaded fastfile code_post_gfx_mp
+[    119463] Unloaded fastfile patch_code_pre_gfx_mp
+[    119463] Unloaded fastfile localized_code_pre_gfx_mp
+[    119463] Unloaded fastfile code_pre_gfx_mp
