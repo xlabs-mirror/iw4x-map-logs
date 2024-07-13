@@ -1,3 +1,5 @@
+# https://github.com/xlabs-mirror/iw4x-map-logs/blob/main/README.csv
+
 |mapname                 |playable|no crash|localized name|loadscreen|compass|no error viewmodel|no invisible props|error                                                     |notes                                               |
 |------------------------|--------|--------|--------------|----------|-------|------------------|------------------|----------------------------------------------------------|----------------------------------------------------|
 |af_caves                |✅       |✅       |❌             |❌         |✅      |✅                 |✅                 |                                                          |tank with jeep hitbox; can glitch under map         |
